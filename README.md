@@ -1,4 +1,4 @@
-## Medtouch Applications
+<h1 id="top">Medtouch Applications</h2>
 
 These are the applications built and deployed during my work at [Medtouch](https://www.medtouch.com.br)
 
@@ -34,8 +34,10 @@ Most of these applications were built using Objective-C and some use Swift.  I'l
 
 2. Authentication for the users in Firebase;
 
+[Back to Top](#top)
+
 <h2 id="condutas">Condutas em Emergência(Emergency Conducts)</h2>
-<img align="left" src="icons/Icon_Conds60.png"><b>Condutas em Emergência</b> is an application blablabla blablablablablabla blablablablablabla blablabla blablabla.
+<img align="left" src="icons/Icon_Conds60.png"><b>Condutas em Emergência</b> is an application blablabla blablablablablabla blablablablablabla blablabla blablabla.<br>
 
 ### Features: 
 1. Created a database in Firebase and connected to the app, with the names and images to be shown on the cards;
