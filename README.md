@@ -2,7 +2,14 @@
 
 These are the applications built and deployed during my work at [Medtouch](https://www.medtouch.com.br)
 
-### iOS Applications <a href="https://www.medtouch.com.br"><img align="right" src="icons/Icon_CodeBlue_60.png"></a>
+### iOS Applications 
+
+[![Code Blue](icons/Icon_CodeBlue_60.png)](#codeblue)  [![Condutas](icons/Icon_Conds_60.png)](#condutas)  [![Dengue](icons/Icon_Dengue_60.png)](#dengue)
+[![DocCalc](icons/Icon_DocCalc_60.png)](#doccalc)  [![Drogas](icons/Icon_Drogas_60.png)](#drogas)  [![Drugs](icons/Icon_Drugs_60.png)](#drugs)
+[![Eponimos](icons/Icon_Epons_60.png)](#epons)  [![GravLact](icons/Icon_GravLact_60.png)](#gravlact)  [![GuiaATMs](icons/Icon_GuiaATMs_60.png)](#guiaatms)
+[![PrescMed](icons/Icon_Presc_60.png)](#presc)
+
+<a href="https://www.medtouch.com.br"><img align="right" src="icons/Icon_CodeBlue_60.png"></a>
 
 <strong>Obs:</strong> Most of these applications were built using Objective-C and some use Swift.  I'll try to show the main features of each one and what can be done to improve them.
 
