@@ -4,19 +4,11 @@ These are the applications built and deployed during my work at Medtouch.
 
 ### iOS Applications
 
-Most of these were built using Objective-C and some use Swift
+<strong>Obs:</strong> Most of these applications were built using Objective-C and some use Swift.  I'll try to show the main features of each one and what can be done to improve them.
 
 <img align="left" src="icons/Icon_CodeBlue_60.png"><b>Code Blue</b><br>Markdown magic uses comment blocks in markdown files to automatically sync or transform its contents.
 
-    ![App](icons/Icon_CodeBlue_60@2x.png)
-
-Using [Create React App](https://github.com/facebook/create-react-app), I'll try to "clone" the original tinder app, with all the screens and functionalities.
-
-To begin with, a database on Firebase will be used, because of the ease of use. Further, for learning purposes, I'll try different approaches for backend, like SQL and NOSQL databases (like MongoDB).
-
-![App](Pictures/App.jpg)
-
-### Done: 
+### Features: 
 1. Created a database in Firebase and connected to the app, with the names and images to be shown on the cards;
 
 2. A ***Header/NavBar*** with three icons;
@@ -25,21 +17,8 @@ To begin with, a database on Firebase will be used, because of the ease of use. 
 
 3. A body with a stack of cards, with the functionality of swipe right or left;
 
-#### Swipe Right:
-![Cards](Pictures/Cards.jpg)
+### Improvements:
 
-#### Swipe Left:
-![Cards](Pictures/CardsLeft.jpg)
-
-4. A footer with five round buttons;
-
-![Footer](Pictures/Footer.jpg)
-
-5. A page with all the chats and;
-
-6. Another page for each chat, with some functionalities.
-
-### To be done:
 1. Create the other functionalities/screens of the app;
 
 2. Put each and every one button to work properly;
@@ -52,8 +31,7 @@ To begin with, a database on Firebase will be used, because of the ease of use. 
 
 5. Improve the responsivenes of the app;
 
-### Demo:
-![App](Demos/tinderDemo.gif)
+
 
 ### Obs:
 The app can be seen [here](https://tinder-clone-c1a91.web.app)
