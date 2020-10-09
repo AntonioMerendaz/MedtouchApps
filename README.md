@@ -4,9 +4,9 @@ These are the applications built and deployed during my work at [Medtouch](https
 
 ### iOS Applications 
 
-[![Code Blue](icons/Icon_CodeBlue_60.png)](#codeblue)  [![Condutas](icons/Icon_Conds_60.png)](#condutas)  [![Dengue](icons/Icon_Dengue_60.png)](#dengue)
+[![Code Blue](icons/Icon_CodeBlue_60.png)](#codeblue)  [![Condutas](icons/Icon_Conds60.png)](#condutas)  [![Dengue](icons/Icon_Dengue_60.png)](#dengue)
 [![DocCalc](icons/Icon_DocCalc_60.png)](#doccalc)  [![Drogas](icons/Icon_Drogas_60.png)](#drogas)  [![Drugs](icons/Icon_Drugs_60.png)](#drugs)
-[![Eponimos](icons/Icon_Epons_60.png)](#epons)  [![GravLact](icons/Icon_GravLact_60.png)](#gravlact)  [![GuiaATMs](icons/Icon_GuiaATMs_60.png)](#guiaatms)
+[![Eponimos](icons/Icon_Epons-60.png)](#epons)  [![GravLact](icons/Icon_GravLact_60.png)](#gravlact)  [![GuiaATMs](icons/Icon_GuiaATMs-60.png)](#guiaatms)
 [![PrescMed](icons/Icon_Presc_60.png)](#presc)
 
 <a href="https://www.medtouch.com.br"><img align="right" src="icons/Icon_CodeBlue_60.png"></a>
