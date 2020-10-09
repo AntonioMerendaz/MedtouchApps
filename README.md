@@ -4,7 +4,7 @@ These are the applications built and deployed during my work at Medtouch.
 
 ### iOS Applications
 
-Most of these where built using Objective-C and some use Swift
+Most of these were built using Objective-C and some use Swift
 
 <img align="left" src="icons/Icon_CodeBlue_60.png"><b>Code Blue</b><br>Markdown magic uses comment blocks in markdown files to automatically sync or transform its contents.
 
