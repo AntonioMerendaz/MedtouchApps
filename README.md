@@ -14,7 +14,8 @@ These are the applications built and deployed during my work at [Medtouch](https
 
 Most of these applications were built using Objective-C and some use Swift.  I'll try to show the main features of each one and what can be done to improve them.
 
-<img align="left" src="icons/Icon_CodeBlue_60.png"><b>Code Blue</b><br>Markdown magic uses comment blocks in markdown files to automatically sync or transform its contents.
+<h2 id="codeblue">CodeBlue</h2>
+<img align="right" src="icons/Icon_CodeBlue_60.png"><b>Code Blue</b> is an application blablabla blablablablablabla blablablablablabla blablabla blablabla.
 
 ### Features: 
 1. Created a database in Firebase and connected to the app, with the names and images to be shown on the cards;
