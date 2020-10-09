@@ -3,16 +3,19 @@
 These are the applications built and deployed during my work at [Medtouch](https://www.medtouch.com.br)
 
 ### iOS Applications 
-<p align:"center">
+
 [![Code Blue](icons/Icon_CodeBlue_60.png)](#codeblue)  [![Condutas](icons/Icon_Conds60.png)](#condutas)  [![Dengue](icons/Icon_Dengue_60.png)](#dengue)
 [![DocCalc](icons/Icon_DocCalc_60.png)](#doccalc)  [![Drogas](icons/Icon_Drogas_60.png)](#drogas)  [![Drugs](icons/Icon_Drugs_60.png)](#drugs)
 [![Eponimos](icons/Icon_Epons-60.png)](#epons)  [![GravLact](icons/Icon_GravLact_60.png)](#gravlact)  [![GuiaATMs](icons/Icon_GuiaATMs-60.png)](#guiaatms)
 [![PrescMed](icons/Icon_Presc_60.png)](#presc)
-</p>
+
+<p align:"center">
 <a href="#obs"><img align="left" src="icons/Icon_CodeBlue_60.png"></a>&nbsp;&nbsp;&nbsp;<a href="#obs"><img align="left" src="icons/Icon_Conds60.png"></a>&nbsp;&nbsp;&nbsp;<a href="#obs"><img align="left" src="icons/Icon_Dengue_60.png"></a>&nbsp;&nbsp;&nbsp;<a href="#obs"><img align="left" src="icons/Icon_DocCalc_60.png"></a>&nbsp;&nbsp;&nbsp;<a href="#obs"><img align="left" src="icons/Icon_Drogas_60.png"></a>&nbsp;&nbsp;&nbsp;<a href="#obs"><img align="left" src="icons/Icon_Drugs_60.png"></a>&nbsp;&nbsp;&nbsp;<a href="#obs"><img align="left" src="icons/Icon_Epons-60.png"></a>&nbsp;&nbsp;&nbsp;<a href="#obs"><img align="left" src="icons/Icon_GravLact_60.png"></a>&nbsp;&nbsp;&nbsp;<a href="#obs"><img align="left" src="icons/Icon_GuiaATMs-60.png"></a>&nbsp;&nbsp;&nbsp;<a href="#obs"><img align="left" src="icons/Icon_Presc_60.png"></a>
+</p>
 
+### Obs:
 
-<strong>Obs:</strong> Most of these applications were built using Objective-C and some use Swift.  I'll try to show the main features of each one and what can be done to improve them.
+Most of these applications were built using Objective-C and some use Swift.  I'll try to show the main features of each one and what can be done to improve them.
 
 <img align="left" src="icons/Icon_CodeBlue_60.png"><b>Code Blue</b><br>Markdown magic uses comment blocks in markdown files to automatically sync or transform its contents.
 
