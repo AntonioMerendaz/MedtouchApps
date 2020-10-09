@@ -1,10 +1,14 @@
 ## Medtouch Applications
 
-These are the applications built and deployed for Medtouch
+These are the applications built and deployed during my work at Medtouch.
 
 ### iOS Applications
 
-- [Code Blue](CodeBlue/README.md)
+Most of these where built using Objective-C and some use Swift
+
+<img align="left" src="icons/Icon_CodeBlue_60.png"><b>Code Blue</b><br>Markdown magic uses comment blocks in markdown files to automatically sync or transform its contents.
+
+    ![App](icons/Icon_CodeBlue_60@2x.png)
 
 Using [Create React App](https://github.com/facebook/create-react-app), I'll try to "clone" the original tinder app, with all the screens and functionalities.
 
