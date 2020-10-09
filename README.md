@@ -1,6 +1,10 @@
-## About the project
+## Medtouch Applications
 
-This is an experimental project, to learn React JS.
+These are the applications built and deployed for Medtouch
+
+### iOS Applications
+
+- [Code Blue](CodeBlue/README.md)
 
 Using [Create React App](https://github.com/facebook/create-react-app), I'll try to "clone" the original tinder app, with all the screens and functionalities.
 
