@@ -15,7 +15,7 @@ These are the applications built and deployed during my work at [Medtouch](https
 Most of these applications were built using Objective-C and some use Swift.  I'll try to show the main features of each one and what can be done to improve them.
 
 <h2 id="codeblue">CodeBlue</h2>
-<img align="right" src="icons/Icon_CodeBlue_60.png"><b>Code Blue</b> is an application blablabla blablablablablabla blablablablablabla blablabla blablabla.
+<img align="left" src="icons/Icon_CodeBlue_60.png"><b>Code Blue</b> is an application blablabla blablablablablabla blablablablablabla blablabla blablabla.
 
 ### Features: 
 1. Created a database in Firebase and connected to the app, with the names and images to be shown on the cards;
@@ -34,15 +34,136 @@ Most of these applications were built using Objective-C and some use Swift.  I'l
 
 2. Authentication for the users in Firebase;
 
-3. Adjust the database to contain all the data for each user, including his name, picture, name of other users chosen(or not) by him and the chat content;
+<h2 id="condutas">Condutas em Emergência(Emergency Conducts)</h2>
+<img align="left" src="icons/Icon_Conds60.png"><b>Condutas em Emergência</b> is an application blablabla blablablablablabla blablablablablabla blablabla blablabla.
 
-4. Think of another type of database, if necessary, to keep all this data;
+### Features: 
+1. Created a database in Firebase and connected to the app, with the names and images to be shown on the cards;
 
-5. Improve the responsivenes of the app;
+2. A ***Header/NavBar*** with three icons;
 
+3. A body with a stack of cards, with the functionality of swipe right or left;
+
+### Improvements:
+
+1. Create the other functionalities/screens of the app;
+
+
+<h2 id="dengue">Dengue</h2>
+<img align="left" src="icons/Icon_Dengue_60.png"><b>Dengue</b> is an application blablabla blablablablablabla blablablablablabla blablabla blablabla.
+
+### Features: 
+1. Created a database in Firebase and connected to the app, with the names and images to be shown on the cards;
+
+2. A ***Header/NavBar*** with three icons;
+
+3. A body with a stack of cards, with the functionality of swipe right or left;
+
+### Improvements:
+
+1. Create the other functionalities/screens of the app;
+
+<h2 id="doccalc">DocCalc</h2>
+<img align="left" src="icons/Icon_DocCalc_60.png"><b>DocCalc</b> is an application blablabla blablablablablabla blablablablablabla blablabla blablabla.
+
+### Features: 
+1. Created a database in Firebase and connected to the app, with the names and images to be shown on the cards;
+
+2. A ***Header/NavBar*** with three icons;
+
+3. A body with a stack of cards, with the functionality of swipe right or left;
+
+### Improvements:
+
+1. Create the other functionalities/screens of the app;
+
+
+<h2 id="drogas">Drogas em Emergência (Drugs in Emergency)</h2>
+<img align="left" src="icons/Icon_Drogas_60.png"><b>Drogas em Emergência</b> is an application blablabla blablablablablabla blablablablablabla blablabla blablabla.
+
+### Features: 
+1. Created a database in Firebase and connected to the app, with the names and images to be shown on the cards;
+
+2. A ***Header/NavBar*** with three icons;
+
+3. A body with a stack of cards, with the functionality of swipe right or left;
+
+### Improvements:
+
+1. Create the other functionalities/screens of the app;
+
+<h2 id="drugs">Drugs in Emergency</h2>
+<img align="left" src="icons/Icon_Drugs_60.png"><b>Drugs in Emergency</b> is an application blablabla blablablablablabla blablablablablabla blablabla blablabla.
+
+### Features: 
+1. Created a database in Firebase and connected to the app, with the names and images to be shown on the cards;
+
+2. A ***Header/NavBar*** with three icons;
+
+3. A body with a stack of cards, with the functionality of swipe right or left;
+
+### Improvements:
+
+1. Create the other functionalities/screens of the app;
+
+<h2 id="epons">Epônimos</h2>
+<img align="left" src="icons/Icon_Epons-60.png"><b>Epônimos</b> is an application blablabla blablablablablabla blablablablablabla blablabla blablabla.
+
+### Features: 
+1. Created a database in Firebase and connected to the app, with the names and images to be shown on the cards;
+
+2. A ***Header/NavBar*** with three icons;
+
+3. A body with a stack of cards, with the functionality of swipe right or left;
+
+### Improvements:
+
+1. Create the other functionalities/screens of the app;
+
+<h2 id="gravlact">Gravidez e Lactação (Pregnancy and Lactation)</h2>
+<img align="left" src="icons/Icon_GravLact_60.png"><b>Gravidez e Lactação</b> is an application blablabla blablablablablabla blablablablablabla blablabla blablabla.
+
+### Features: 
+1. Created a database in Firebase and connected to the app, with the names and images to be shown on the cards;
+
+2. A ***Header/NavBar*** with three icons;
+
+3. A body with a stack of cards, with the functionality of swipe right or left;
+
+### Improvements:
+
+1. Create the other functionalities/screens of the app;
+
+
+<h2 id="guiaatms">Guia de Antimicrobianos (Antimicrobials Guide)</h2>
+<img align="left" src="icons/Icon_GuiaATMs-60.png"><b>Guia de Antimicrobianos</b> is an application blablabla blablablablablabla blablablablablabla blablabla blablabla.
+
+### Features: 
+1. Created a database in Firebase and connected to the app, with the names and images to be shown on the cards;
+
+2. A ***Header/NavBar*** with three icons;
+
+3. A body with a stack of cards, with the functionality of swipe right or left;
+
+### Improvements:
+
+1. Create the other functionalities/screens of the app;
+
+
+<h2 id="gravlact">Prescrições Médicas (Medical Prescriptions)</h2>
+<img align="left" src="icons/Icon_Presc_60.png"><b>Prescrições Médicas</b> is an application blablabla blablablablablabla blablablablablabla blablabla blablabla.
+
+### Features: 
+1. Created a database in Firebase and connected to the app, with the names and images to be shown on the cards;
+
+2. A ***Header/NavBar*** with three icons;
+
+3. A body with a stack of cards, with the functionality of swipe right or left;
+
+### Improvements:
+
+1. Create the other functionalities/screens of the app;
 
 
 ### Obs:
 The app can be seen [here](https://tinder-clone-c1a91.web.app)
-
-
