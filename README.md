@@ -1,8 +1,8 @@
 ## Medtouch Applications
 
-These are the applications built and deployed during my work at Medtouch.
+These are the applications built and deployed during my work at [Medtouch](https://www.medtouch.com.br)
 
-### iOS Applications
+### iOS Applications <img align="right" src="icons/Icon_CodeBlue_60.png"><b>Code Blue</b><br>iOS Applications
 
 <strong>Obs:</strong> Most of these applications were built using Objective-C and some use Swift.  I'll try to show the main features of each one and what can be done to improve them.
 
@@ -13,7 +13,7 @@ These are the applications built and deployed during my work at Medtouch.
 
 2. A ***Header/NavBar*** with three icons;
 
-![Header](Pictures/Header.jpg)
+![Header](icons/Icon_CodeBlue_60.png)
 
 3. A body with a stack of cards, with the functionality of swipe right or left;
 
