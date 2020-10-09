@@ -9,16 +9,7 @@ These are the applications built and deployed during my work at [Medtouch](https
 [![Eponimos](icons/Icon_Epons-60.png)](#epons)  [![GravLact](icons/Icon_GravLact_60.png)](#gravlact)  [![GuiaATMs](icons/Icon_GuiaATMs-60.png)](#guiaatms)
 [![PrescMed](icons/Icon_Presc_60.png)](#presc)
 </p>
-<a href="#obs"><img align="left" src="icons/Icon_CodeBlue_60.png"></a>&nbsp;&nbsp;&nbsp;
-<a href="#obs"><img align="left" src="icons/Icon_Conds60.png"></a>&nbsp;&nbsp;&nbsp;
-<a href="#obs"><img align="left" src="icons/Icon_Dengue_60.png"></a>&nbsp;&nbsp;&nbsp;
-<a href="#obs"><img align="left" src="icons/Icon_DocCalc_60.png"></a>&nbsp;&nbsp;&nbsp;
-<a href="#obs"><img align="left" src="icons/Icon_Drogas_60.png"></a>&nbsp;&nbsp;&nbsp;
-<a href="#obs"><img align="left" src="icons/Icon_Drugs_60.png"></a>&nbsp;&nbsp;&nbsp;
-<a href="#obs"><img align="left" src="icons/Icon_Epons-60.png"></a>&nbsp;&nbsp;&nbsp;
-<a href="#obs"><img align="left" src="icons/Icon_GravLact_60.png"></a>&nbsp;&nbsp;&nbsp;
-<a href="#obs"><img align="left" src="icons/Icon_GuiaATMs-60.png"></a>&nbsp;&nbsp;&nbsp;
-<a href="#obs"><img align="left" src="icons/Icon_Presc_60.png"></a>
+<a href="#obs"><img align="left" src="icons/Icon_CodeBlue_60.png"></a>&nbsp;&nbsp;&nbsp;<a href="#obs"><img align="left" src="icons/Icon_Conds60.png"></a>&nbsp;&nbsp;&nbsp;<a href="#obs"><img align="left" src="icons/Icon_Dengue_60.png"></a>&nbsp;&nbsp;&nbsp;<a href="#obs"><img align="left" src="icons/Icon_DocCalc_60.png"></a>&nbsp;&nbsp;&nbsp;<a href="#obs"><img align="left" src="icons/Icon_Drogas_60.png"></a>&nbsp;&nbsp;&nbsp;<a href="#obs"><img align="left" src="icons/Icon_Drugs_60.png"></a>&nbsp;&nbsp;&nbsp;<a href="#obs"><img align="left" src="icons/Icon_Epons-60.png"></a>&nbsp;&nbsp;&nbsp;<a href="#obs"><img align="left" src="icons/Icon_GravLact_60.png"></a>&nbsp;&nbsp;&nbsp;<a href="#obs"><img align="left" src="icons/Icon_GuiaATMs-60.png"></a>&nbsp;&nbsp;&nbsp;<a href="#obs"><img align="left" src="icons/Icon_Presc_60.png"></a>
 
 
 <strong>Obs:</strong> Most of these applications were built using Objective-C and some use Swift.  I'll try to show the main features of each one and what can be done to improve them.
