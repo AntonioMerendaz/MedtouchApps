@@ -47,6 +47,7 @@ Most of these applications were built using Objective-C and some use Swift.  I'l
 
 1. Create the other functionalities/screens of the app;
 
+[Back to Top](#top)
 
 <h2 id="dengue">Dengue</h2>
 <img align="left" src="icons/Icon_Dengue_60.png"><b>Dengue</b> is an application blablabla blablablablablabla blablablablablabla blablabla blablabla.
@@ -62,6 +63,8 @@ Most of these applications were built using Objective-C and some use Swift.  I'l
 
 1. Create the other functionalities/screens of the app;
 
+[Back to Top](#top)
+
 <h2 id="doccalc">DocCalc</h2>
 <img align="left" src="icons/Icon_DocCalc_60.png"><b>DocCalc</b> is an application blablabla blablablablablabla blablablablablabla blablabla blablabla.
 
@@ -76,6 +79,7 @@ Most of these applications were built using Objective-C and some use Swift.  I'l
 
 1. Create the other functionalities/screens of the app;
 
+[Back to Top](#top)
 
 <h2 id="drogas">Drogas em Emergência & CTI(4 Idioms: PT, EN, ES, CH)</h2>
 <img align="left" src="icons/Icon_Drogas_60.png"><b>Drogas em Emergência</b> is an application blablabla blablablablablabla blablablablablabla blablabla blablabla.
@@ -91,6 +95,8 @@ Most of these applications were built using Objective-C and some use Swift.  I'l
 
 1. Create the other functionalities/screens of the app;
 
+[Back to Top](#top)
+
 <h2 id="drugs">Drugs in Emergency</h2>
 <img align="left" src="icons/Icon_Drugs_60.png"><b>Drugs in Emergency</b> is an application blablabla blablablablablabla blablablablablabla blablabla blablabla.
 
@@ -104,6 +110,8 @@ Most of these applications were built using Objective-C and some use Swift.  I'l
 ### Improvements:
 
 1. Create the other functionalities/screens of the app;
+
+[Back to Top](#top)
 
 <h2 id="epons">Epônimos</h2>
 <img align="left" src="icons/Icon_Epons-60.png"><b>Epônimos</b> is an application blablabla blablablablablabla blablablablablabla blablabla blablabla.
@@ -119,6 +127,8 @@ Most of these applications were built using Objective-C and some use Swift.  I'l
 
 1. Create the other functionalities/screens of the app;
 
+[Back to Top](#top)
+
 <h2 id="gravlact">Gravidez e Lactação</h2>
 <img align="left" src="icons/Icon_GravLact_60.png"><b>Gravidez e Lactação</b> is an application blablabla blablablablablabla blablablablablabla blablabla blablabla.
 
@@ -133,6 +143,7 @@ Most of these applications were built using Objective-C and some use Swift.  I'l
 
 1. Create the other functionalities/screens of the app;
 
+[Back to Top](#top)
 
 <h2 id="guiaatms">Guia de Antimicrobianos</h2>
 <img align="left" src="icons/Icon_GuiaATMs-60.png"><b>Guia de Antimicrobianos</b> is an application blablabla blablablablablabla blablablablablabla blablabla blablabla.
@@ -148,6 +159,7 @@ Most of these applications were built using Objective-C and some use Swift.  I'l
 
 1. Create the other functionalities/screens of the app;
 
+[Back to Top](#top)
 
 <h2 id="prescs">Prescrições Médicas</h2>
 <img align="left" src="icons/Icon_Presc_60.png"><b>Prescrições Médicas</b> is an application blablabla blablablablablabla blablablablablabla blablabla blablabla.
@@ -163,6 +175,9 @@ Most of these applications were built using Objective-C and some use Swift.  I'l
 
 1. Create the other functionalities/screens of the app;
 
+[Back to Top](#top)
 
 ### Obs:
 The app can be seen [here](https://tinder-clone-c1a91.web.app)
+
+[Back to Top](#top)
