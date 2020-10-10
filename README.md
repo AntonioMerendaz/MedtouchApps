@@ -1,6 +1,5 @@
 <h1 id="top">Medtouch Applications</h2>
 
-<img align="right" width="150" src="icons/apple-badge-black.png"><img align="right" width="200" src="icons/google-play-badge.png">
 [![AppStore](icons/apple-badge-black.png "AppStore")](#codeblue)  [![Google Play](icons/google-play-badge.png "Google Play")](#condutas)
 
 ##### These are the applications built and deployed during my work at [Medtouch](https://www.medtouch.com.br)
