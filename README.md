@@ -1,8 +1,8 @@
 <h1 id="top">Medtouch Applications</h2>
 
-<div style = text-align:"center"><img width="150" src="icons/apple-badge-black.png">&nbsp;&nbsp;&nbsp;&nbsp;<img width="180" src="icons/google-play-badge.png"></div>
+<div style = text-align:"center"><img align="left" width="150" src="icons/apple-badge-black.png">&nbsp;&nbsp;&nbsp;&nbsp;<img align="right" width="180" src="icons/google-play-badge.png"></div>
 
-These are the applications built and deployed during my work at [Medtouch](https://www.medtouch.com.br)
+##### These are the applications built and deployed during my work at [Medtouch](https://www.medtouch.com.br)
 
 
 
