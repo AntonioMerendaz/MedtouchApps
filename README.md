@@ -1,9 +1,8 @@
 <h1 id="top">Medtouch Applications</h2>
 
-[![AppStore](icons/apple-badge-black.png "AppStore")](#codeblue)
-[![Google Play](icons/google-play-badge.png "Google Play")](#condutas)
-
-<img align="left" src="icons/apple-badge-black.png"><img align="left" src="icons/google-play-badge.png">
+iOS Applications           |  Android Applications
+:-------------------------:|:-------------------------:
+[![AppStore](icons/apple-badge-black.png "AppStore")](#codeblue) | [![Google Play](icons/google-play-badge.png "Google Play")](#condutas)
 
 <br>
 
