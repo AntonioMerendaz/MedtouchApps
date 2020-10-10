@@ -11,7 +11,7 @@ These are the applications built and deployed during my work at [Medtouch](https
 
 Most of these applications were built using Objective-C and some use Swift.  I'll try to show the main features of each one and what can be done to improve them.
 
-<h2 id="codeblue">CodeBlue</h2>
+<h2 id="codeblue">Code Blue</h2>
 <img align="left" src="icons/Icon_CodeBlue_60.png"><b>Code Blue</b> is an application blablabla blablablablablabla blablablablablabla blablabla blablabla.
 
 ### Features: 
@@ -77,7 +77,7 @@ Most of these applications were built using Objective-C and some use Swift.  I'l
 1. Create the other functionalities/screens of the app;
 
 
-<h2 id="drogas">Drogas em Emergência (Drugs in Emergency)</h2>
+<h2 id="drogas">Drogas em Emergência & CTI(4 Idioms: PT, EN, ES, CH)</h2>
 <img align="left" src="icons/Icon_Drogas_60.png"><b>Drogas em Emergência</b> is an application blablabla blablablablablabla blablablablablabla blablabla blablabla.
 
 ### Features: 
@@ -119,7 +119,7 @@ Most of these applications were built using Objective-C and some use Swift.  I'l
 
 1. Create the other functionalities/screens of the app;
 
-<h2 id="gravlact">Gravidez e Lactação (Pregnancy and Lactation)</h2>
+<h2 id="gravlact">Gravidez e Lactação</h2>
 <img align="left" src="icons/Icon_GravLact_60.png"><b>Gravidez e Lactação</b> is an application blablabla blablablablablabla blablablablablabla blablabla blablabla.
 
 ### Features: 
@@ -134,7 +134,7 @@ Most of these applications were built using Objective-C and some use Swift.  I'l
 1. Create the other functionalities/screens of the app;
 
 
-<h2 id="guiaatms">Guia de Antimicrobianos (Antimicrobials Guide)</h2>
+<h2 id="guiaatms">Guia de Antimicrobianos</h2>
 <img align="left" src="icons/Icon_GuiaATMs-60.png"><b>Guia de Antimicrobianos</b> is an application blablabla blablablablablabla blablablablablabla blablabla blablabla.
 
 ### Features: 
@@ -149,7 +149,7 @@ Most of these applications were built using Objective-C and some use Swift.  I'l
 1. Create the other functionalities/screens of the app;
 
 
-<h2 id="prescs">Prescrições Médicas (Medical Prescriptions)</h2>
+<h2 id="prescs">Prescrições Médicas</h2>
 <img align="left" src="icons/Icon_Presc_60.png"><b>Prescrições Médicas</b> is an application blablabla blablablablablabla blablablablablabla blablabla blablabla.
 
 ### Features: 
