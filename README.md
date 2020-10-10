@@ -204,6 +204,102 @@ These applications were built using cross-platform tools, like Html, CSS, JS, jQ
 
 [Back to Top](#top)
 
+<h2 id="codeblue">Code Blue</h2>
+<img align="left" src="icons/Icon_CodeBlue_60.png"><b>Code Blue</b> is an application blablabla blablablablablabla blablablablablabla blablabla blablabla.
+<br>
+<br>
+
+### Features: 
+1. Created a database in Firebase and connected to the app, with the names and images to be shown on the cards;
+
+2. A ***Header/NavBar*** with three icons;
+
+[![Header](icons/Icon_CodeBlue_60.png)](https://www.medtouch.com.br)
+
+3. A body with a stack of cards, with the functionality of swipe right or left;
+
+### Improvements:
+
+1. Create the other functionalities/screens of the app;
+
+2. Put each and every one button to work properly;
+
+2. Authentication for the users in Firebase;
+
+[Back to Top](#top)
+
+<h2 id="dengue">Dengue</h2>
+<img align="left" src="icons/Icon_Dengue_60.png"><b>Dengue</b> is an application blablabla blablablablablabla blablablablablabla blablabla blablabla.
+<br>
+<br>
+
+### Features: 
+1. Created a database in Firebase and connected to the app, with the names and images to be shown on the cards;
+
+2. A ***Header/NavBar*** with three icons;
+
+3. A body with a stack of cards, with the functionality of swipe right or left;
+
+### Improvements:
+
+1. Create the other functionalities/screens of the app;
+
+[Back to Top](#top)
+
+<h2 id="doccalc">DocCalc</h2>
+<img align="left" src="icons/Icon_DocCalc_60.png"><b>DocCalc</b> is an application blablabla blablablablablabla blablablablablabla blablabla blablabla.
+<br>
+<br>
+
+### Features: 
+1. Created a database in Firebase and connected to the app, with the names and images to be shown on the cards;
+
+2. A ***Header/NavBar*** with three icons;
+
+3. A body with a stack of cards, with the functionality of swipe right or left;
+
+### Improvements:
+
+1. Create the other functionalities/screens of the app;
+
+[Back to Top](#top)
+
+<h2 id="draureo">Dr Aureo</h2>
+<img align="left" src="icons/Icon_Drogas_60.png"><b>Drogas em Emergência</b> is an application blablabla blablablablablabla blablablablablabla blablabla blablabla.
+<br>
+<br>
+
+### Features: 
+1. Created a database in Firebase and connected to the app, with the names and images to be shown on the cards;
+
+2. A ***Header/NavBar*** with three icons;
+
+3. A body with a stack of cards, with the functionality of swipe right or left;
+
+### Improvements:
+
+1. Create the other functionalities/screens of the app;
+
+[Back to Top](#top)
+
+<h2 id="drogas">Drogas em Emergência & CTI(4 Idioms: PT, EN, ES, CH)</h2>
+<img align="left" src="icons/Icon_Drogas_60.png"><b>Drogas em Emergência</b> is an application blablabla blablablablablabla blablablablablabla blablabla blablabla.
+<br>
+<br>
+
+### Features: 
+1. Created a database in Firebase and connected to the app, with the names and images to be shown on the cards;
+
+2. A ***Header/NavBar*** with three icons;
+
+3. A body with a stack of cards, with the functionality of swipe right or left;
+
+### Improvements:
+
+1. Create the other functionalities/screens of the app;
+
+[Back to Top](#top)
+
 ### Obs:
 The app can be seen [here](https://tinder-clone-c1a91.web.app)
 
