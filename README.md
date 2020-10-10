@@ -9,8 +9,8 @@ iOS Applications           |  Android Applications
 <h3 id="ios">iOS Applications:</h3>
 
 These applications were built using Objective-C and some were rebuilt with Swift.<br>I'll try to show the main features of each one and what can be done to improve them.
-
-[![Code Blue](icons/Icon_CodeBlue_60.png "Code Blue")](#codeblue)  [![Condutas](icons/Icon_Conds60.png "Condutas em Emergência")](#condutas)  [![Dengue](icons/Icon_Dengue_60.png "Dengue")](#dengue)  [![DocCalc](icons/Icon_DocCalc_60.png "DocCalc")](#doccalc)  [![Drogas](icons/Icon_Drogas_60.png "Drogas em Emergência & CTI")](#drogas)  [![Drugs](icons/Icon_Drugs_60.png "Drugs in Emergency & ICU")](#drugs)  [![Eponimos](icons/Icon_Epons-60.png "Epônimos")](#epons)  [![GravLact](icons/Icon_GravLact_60.png "Gravidez e Lactação")](#gravlact)  [![GuiaATMs](icons/Icon_GuiaATMs-60.png "Guia de Antimicrobianos")](#guiaatms)  [![PrescMed](icons/Icon_Presc_60.png "Prescrições Médicas")](#prescs)
+icons/Icon_DrAureo_60.png
+[![Code Blue](icons/Icon_CodeBlue_60.png "Code Blue - iOS")](#codeblue)  [![Code Blue](icons/Icon_CodeBlue_60.png "Code Blue - Android")](#codeblueA)  [![Condutas](icons/Icon_Conds60.png "Condutas em Emergência")](#condutas)  [![Dengue](icons/Icon_Dengue_60.png "Dengue - iOS")](#dengue)  [![Dengue](icons/Icon_Dengue_60.png "Dengue - Android")](#dengueA)  [![DocCalc](icons/Icon_DocCalc_60.png "DocCalc - iOS")](#doccalc)  [![DocCalc](icons/Icon_DocCalc_60.png "DocCalc - Android")](#doccalcA)  [![DrAureo](icons/Icon_DrAureo_60.png "Dr Aureo - iOS")](#draureo)  [![DrAureo](icons/Icon_DrAureo_60.png "Dr Aureo - Android")](#draureoA)  [![Drogas](icons/Icon_Drogas_60.png "Drogas em Emergência & CTI - iOS")](#drogas)  [![Drogas](icons/Icon_Drogas_60.png "Drogas em Emergência & CTI - Android")](#drogasA)  [![Drugs](icons/Icon_Drugs_60.png "Drugs in Emergency & ICU")](#drugs)  [![Eponimos](icons/Icon_Epons-60.png "Epônimos")](#epons)  [![GravLact](icons/Icon_GravLact_60.png "Gravidez e Lactação")](#gravlact)  [![GuiaATMs](icons/Icon_GuiaATMs-60.png "Guia de Antimicrobianos")](#guiaatms)  [![PrescMed](icons/Icon_Presc_60.png "Prescrições Médicas")](#prescs)
 
 <h2 id="codeblue">Code Blue</h2>
 <img align="left" src="icons/Icon_CodeBlue_60.png"><b>Code Blue</b> is an application blablabla blablablablablabla blablablablablabla blablabla blablabla.
@@ -74,6 +74,24 @@ These applications were built using Objective-C and some were rebuilt with Swift
 
 <h2 id="doccalc">DocCalc</h2>
 <img align="left" src="icons/Icon_DocCalc_60.png"><b>DocCalc</b> is an application blablabla blablablablablabla blablablablablabla blablabla blablabla.
+<br>
+<br>
+
+### Features: 
+1. Created a database in Firebase and connected to the app, with the names and images to be shown on the cards;
+
+2. A ***Header/NavBar*** with three icons;
+
+3. A body with a stack of cards, with the functionality of swipe right or left;
+
+### Improvements:
+
+1. Create the other functionalities/screens of the app;
+
+[Back to Top](#top)
+
+<h2 id="draureo">Dr Aureo</h2>
+<img align="left" src="icons/Icon_DrAureo_60.png"><b>Drogas em Emergência</b> is an application blablabla blablablablablabla blablablablablabla blablabla blablabla.
 <br>
 <br>
 
@@ -204,7 +222,7 @@ These applications were built using cross-platform tools, like Html, CSS, JS, jQ
 
 [Back to Top](#top)
 
-<h2 id="codeblue">Code Blue</h2>
+<h2 id="codeblueA">Code Blue</h2>
 <img align="left" src="icons/Icon_CodeBlue_60.png"><b>Code Blue</b> is an application blablabla blablablablablabla blablablablablabla blablabla blablabla.
 <br>
 <br>
@@ -228,7 +246,7 @@ These applications were built using cross-platform tools, like Html, CSS, JS, jQ
 
 [Back to Top](#top)
 
-<h2 id="dengue">Dengue</h2>
+<h2 id="dengueA">Dengue</h2>
 <img align="left" src="icons/Icon_Dengue_60.png"><b>Dengue</b> is an application blablabla blablablablablabla blablablablablabla blablabla blablabla.
 <br>
 <br>
@@ -246,7 +264,7 @@ These applications were built using cross-platform tools, like Html, CSS, JS, jQ
 
 [Back to Top](#top)
 
-<h2 id="doccalc">DocCalc</h2>
+<h2 id="doccalcA">DocCalc</h2>
 <img align="left" src="icons/Icon_DocCalc_60.png"><b>DocCalc</b> is an application blablabla blablablablablabla blablablablablabla blablabla blablabla.
 <br>
 <br>
@@ -264,8 +282,8 @@ These applications were built using cross-platform tools, like Html, CSS, JS, jQ
 
 [Back to Top](#top)
 
-<h2 id="draureo">Dr Aureo</h2>
-<img align="left" src="icons/Icon_Drogas_60.png"><b>Drogas em Emergência</b> is an application blablabla blablablablablabla blablablablablabla blablabla blablabla.
+<h2 id="draureoA">Dr Aureo</h2>
+<img align="left" src="icons/Icon_DrAureo_60.png"><b>Drogas em Emergência</b> is an application blablabla blablablablablabla blablablablablabla blablabla blablabla.
 <br>
 <br>
 
@@ -282,7 +300,7 @@ These applications were built using cross-platform tools, like Html, CSS, JS, jQ
 
 [Back to Top](#top)
 
-<h2 id="drogas">Drogas em Emergência & CTI(4 Idioms: PT, EN, ES, CH)</h2>
+<h2 id="drogasA">Drogas em Emergência & CTI(4 Idioms: PT, EN, ES, CH)</h2>
 <img align="left" src="icons/Icon_Drogas_60.png"><b>Drogas em Emergência</b> is an application blablabla blablablablablabla blablablablablabla blablabla blablabla.
 <br>
 <br>
