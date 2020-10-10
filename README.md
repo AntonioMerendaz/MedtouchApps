@@ -2,7 +2,7 @@
 
 iOS Applications           |  Android Applications
 :-------------------------:|:-------------------------:
-[![AppStore](icons/apple-badge-black.png "AppStore")](#codeblue) | [![Google Play](icons/google-play-badge.png "Google Play")](#condutas)
+[![AppStore](icons/apple-badge-black.png "AppStore")](https://tinyurl.com/y4qs4c9l) | [![Google Play](icons/google-play-badge.png "Google Play")](https://tinyurl.com/y3ctuzmm)
 
 <br>
 
