@@ -40,7 +40,7 @@ These applications were built using Objective-C and some were rebuilt with Swift
 [Back to Top](#top)
 ----
 
-<h3 id="condutas">Condutas em Emergência(Emergency Conducts)</h3>
+<h3 id="condutas">Condutas em Emergência</h3>
 <img align="left" src="icons/Icon_Conds60.png"><b>Condutas em Emergência</b> is an application blablabla blablablablablabla blablablablablabla blablabla blablabla.<br>
 <br>
 <br>
@@ -116,13 +116,13 @@ These applications were built using Objective-C and some were rebuilt with Swift
 [Back to Top](#top)
 ----
 
-<h3 id="drogas">Drogas em Emergência & CTI(4 Idioms: PT, EN, ES, CH)</h3>
+<h3 id="drogas">Drogas em Emergência & CTI</h3>
 <img align="left" src="icons/Icon_Drogas_60.png"><b>Drogas em Emergência</b> is an application blablabla blablablablablabla blablablablablabla blablabla blablabla.
 <br>
 <br>
 
 ### Features: 
-1. Created a database in Firebase and connected to the app, with the names and images to be shown on the cards;
+1. 4 Idioms: PT, EN, ES, CH;
 
 2. A ***Header/NavBar*** with three icons;
 
