@@ -15,7 +15,7 @@ iOS Applications           |  Android Applications
 [![Code Blue](icons/Icon_CodeBlue_60.png "Code Blue - Android")](#codeblueA)  [![Dengue](icons/Icon_Dengue_60.png "Dengue - Android")](#dengueA)  [![DocCalc](icons/Icon_DocCalc_60.png "DocCalc - Android")](#doccalcA)  [![DrAureo](icons/Icon_DrAureo_60.png "Dr Aureo - Android")](#draureoA)  [![Drogas](icons/Icon_Drogas_60.png "Drogas em Emergência & CTI - Android")](#drogasA)
 
 
-<h3 id="ios">iOS Applications:</h3>
+<h2 id="ios">iOS Applications:</h3>
 
 These applications were built using Objective-C and some were rebuilt with Swift.<br>I'll try to show the main features of each one and what can be done to improve them.
 
@@ -223,7 +223,7 @@ These applications were built using Objective-C and some were rebuilt with Swift
 
 [Back to Top](#top)
 
-<h3 id="android">Android Applications:</h3>
+<h2 id="android">Android Applications:</h3>
 
 These applications were built using cross-platform tools, like Html, CSS, JS, jQuery, Bootstrap, React, PhoneGap, Cordova, etc..<br>I'll try to show the main features of each one and what can be done to improve them.
 
