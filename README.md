@@ -8,7 +8,7 @@ iOS Applications           |  Android Applications
 
 ### iOS Applications:
 
-Most of these applications were built using Objective-C and some use Swift.  I'll try to show the main features of each one and what can be done to improve them.
+These applications were built using Objective-C and some were rebuilt with Swift.<br>I'll try to show the main features of each one and what can be done to improve them.
 
 [![Code Blue](icons/Icon_CodeBlue_60.png "Code Blue")](#codeblue)  [![Condutas](icons/Icon_Conds60.png "Condutas em Emergência")](#condutas)  [![Dengue](icons/Icon_Dengue_60.png "Dengue")](#dengue)  [![DocCalc](icons/Icon_DocCalc_60.png "DocCalc")](#doccalc)  [![Drogas](icons/Icon_Drogas_60.png "Drogas em Emergência & CTI")](#drogas)  [![Drugs](icons/Icon_Drugs_60.png "Drugs in Emergency & ICU")](#drugs)  [![Eponimos](icons/Icon_Epons-60.png "Epônimos")](#epons)  [![GravLact](icons/Icon_GravLact_60.png "Gravidez e Lactação")](#gravlact)  [![GuiaATMs](icons/Icon_GuiaATMs-60.png "Guia de Antimicrobianos")](#guiaatms)  [![PrescMed](icons/Icon_Presc_60.png "Prescrições Médicas")](#prescs)
 
