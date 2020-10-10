@@ -42,8 +42,9 @@ These applications were built using Objective-C and some were rebuilt with Swift
 2. Authentication for the users in Firebase;
 
 [Back to Top](#top)
+----
 
-<h2 id="condutas">Condutas em Emergência(Emergency Conducts)</h2>
+<h3 id="condutas">Condutas em Emergência(Emergency Conducts)</h3>
 <img align="left" src="icons/Icon_Conds60.png"><b>Condutas em Emergência</b> is an application blablabla blablablablablabla blablablablablabla blablabla blablabla.<br>
 <br>
 <br>
@@ -60,8 +61,9 @@ These applications were built using Objective-C and some were rebuilt with Swift
 1. Create the other functionalities/screens of the app;
 
 [Back to Top](#top)
+----
 
-<h2 id="dengue">Dengue</h2>
+<h3 id="dengue">Dengue</h3>
 <img align="left" src="icons/Icon_Dengue_60.png"><b>Dengue</b> is an application blablabla blablablablablabla blablablablablabla blablabla blablabla.
 <br>
 <br>
@@ -78,8 +80,9 @@ These applications were built using Objective-C and some were rebuilt with Swift
 1. Create the other functionalities/screens of the app;
 
 [Back to Top](#top)
+----
 
-<h2 id="doccalc">DocCalc</h2>
+<h3 id="doccalc">DocCalc</h3>
 <img align="left" src="icons/Icon_DocCalc_60.png"><b>DocCalc</b> is an application blablabla blablablablablabla blablablablablabla blablabla blablabla.
 <br>
 <br>
@@ -96,8 +99,9 @@ These applications were built using Objective-C and some were rebuilt with Swift
 1. Create the other functionalities/screens of the app;
 
 [Back to Top](#top)
+----
 
-<h2 id="draureo">Dr Aureo</h2>
+<h3 id="draureo">Dr Aureo</h3>
 <img align="left" src="icons/Icon_DrAureo_60.png"><b>Drogas em Emergência</b> is an application blablabla blablablablablabla blablablablablabla blablabla blablabla.
 <br>
 <br>
@@ -114,8 +118,9 @@ These applications were built using Objective-C and some were rebuilt with Swift
 1. Create the other functionalities/screens of the app;
 
 [Back to Top](#top)
+----
 
-<h2 id="drogas">Drogas em Emergência & CTI(4 Idioms: PT, EN, ES, CH)</h2>
+<h3 id="drogas">Drogas em Emergência & CTI(4 Idioms: PT, EN, ES, CH)</h3>
 <img align="left" src="icons/Icon_Drogas_60.png"><b>Drogas em Emergência</b> is an application blablabla blablablablablabla blablablablablabla blablabla blablabla.
 <br>
 <br>
@@ -132,8 +137,9 @@ These applications were built using Objective-C and some were rebuilt with Swift
 1. Create the other functionalities/screens of the app;
 
 [Back to Top](#top)
+----
 
-<h2 id="drugs">Drugs in Emergency</h2>
+<h3 id="drugs">Drugs in Emergency</h3>
 <img align="left" src="icons/Icon_Drugs_60.png"><b>Drugs in Emergency</b> is an application blablabla blablablablablabla blablablablablabla blablabla blablabla.
 <br>
 <br>
@@ -150,8 +156,9 @@ These applications were built using Objective-C and some were rebuilt with Swift
 1. Create the other functionalities/screens of the app;
 
 [Back to Top](#top)
+----
 
-<h2 id="epons">Epônimos</h2>
+<h3 id="epons">Epônimos</h3>
 <img align="left" src="icons/Icon_Epons-60.png"><b>Epônimos</b> is an application blablabla blablablablablabla blablablablablabla blablabla blablabla.
 <br>
 <br>
@@ -168,8 +175,9 @@ These applications were built using Objective-C and some were rebuilt with Swift
 1. Create the other functionalities/screens of the app;
 
 [Back to Top](#top)
+----
 
-<h2 id="gravlact">Gravidez e Lactação</h2>
+<h3 id="gravlact">Gravidez e Lactação</h3>
 <img align="left" src="icons/Icon_GravLact_60.png"><b>Gravidez e Lactação</b> is an application blablabla blablablablablabla blablablablablabla blablabla blablabla.
 <br>
 <br>
@@ -186,8 +194,9 @@ These applications were built using Objective-C and some were rebuilt with Swift
 1. Create the other functionalities/screens of the app;
 
 [Back to Top](#top)
+----
 
-<h2 id="guiaatms">Guia de Antimicrobianos</h2>
+<h3 id="guiaatms">Guia de Antimicrobianos</h3>
 <img align="left" src="icons/Icon_GuiaATMs-60.png"><b>Guia de Antimicrobianos</b> is an application blablabla blablablablablabla blablablablablabla blablabla blablabla.
 <br>
 <br>
@@ -204,8 +213,9 @@ These applications were built using Objective-C and some were rebuilt with Swift
 1. Create the other functionalities/screens of the app;
 
 [Back to Top](#top)
+----
 
-<h2 id="prescs">Prescrições Médicas</h2>
+<h3 id="prescs">Prescrições Médicas</h3>
 <img align="left" src="icons/Icon_Presc_60.png"><b>Prescrições Médicas</b> is an application blablabla blablablablablabla blablablablablabla blablabla blablabla.
 <br>
 <br>
@@ -222,14 +232,16 @@ These applications were built using Objective-C and some were rebuilt with Swift
 1. Create the other functionalities/screens of the app;
 
 [Back to Top](#top)
+----
 
-<h2 id="android">Android Applications:</h3>
+<h2 id="android">Android Applications:</h2>
 
 These applications were built using cross-platform tools, like Html, CSS, JS, jQuery, Bootstrap, React, PhoneGap, Cordova, etc..<br>I'll try to show the main features of each one and what can be done to improve them.
 
 [Back to Top](#top)
+----
 
-<h2 id="codeblueA">Code Blue</h2>
+<h3 id="codeblueA">Code Blue</h3>
 <img align="left" src="icons/Icon_CodeBlue_60.png"><b>Code Blue</b> is an application blablabla blablablablablabla blablablablablabla blablabla blablabla.
 <br>
 <br>
@@ -252,8 +264,9 @@ These applications were built using cross-platform tools, like Html, CSS, JS, jQ
 2. Authentication for the users in Firebase;
 
 [Back to Top](#top)
+----
 
-<h2 id="dengueA">Dengue</h2>
+<h3 id="dengueA">Dengue</h3>
 <img align="left" src="icons/Icon_Dengue_60.png"><b>Dengue</b> is an application blablabla blablablablablabla blablablablablabla blablabla blablabla.
 <br>
 <br>
@@ -270,8 +283,9 @@ These applications were built using cross-platform tools, like Html, CSS, JS, jQ
 1. Create the other functionalities/screens of the app;
 
 [Back to Top](#top)
+----
 
-<h2 id="doccalcA">DocCalc</h2>
+<h3 id="doccalcA">DocCalc</h3>
 <img align="left" src="icons/Icon_DocCalc_60.png"><b>DocCalc</b> is an application blablabla blablablablablabla blablablablablabla blablabla blablabla.
 <br>
 <br>
@@ -288,8 +302,9 @@ These applications were built using cross-platform tools, like Html, CSS, JS, jQ
 1. Create the other functionalities/screens of the app;
 
 [Back to Top](#top)
+----
 
-<h2 id="draureoA">Dr Aureo</h2>
+<h3 id="draureoA">Dr Aureo</h3>
 <img align="left" src="icons/Icon_DrAureo_60.png"><b>Drogas em Emergência</b> is an application blablabla blablablablablabla blablablablablabla blablabla blablabla.
 <br>
 <br>
@@ -306,8 +321,9 @@ These applications were built using cross-platform tools, like Html, CSS, JS, jQ
 1. Create the other functionalities/screens of the app;
 
 [Back to Top](#top)
+----
 
-<h2 id="drogasA">Drogas em Emergência & CTI(4 Idioms: PT, EN, ES, CH)</h2>
+<h3 id="drogasA">Drogas em Emergência & CTI(4 Idioms: PT, EN, ES, CH)</h3>
 <img align="left" src="icons/Icon_Drogas_60.png"><b>Drogas em Emergência</b> is an application blablabla blablablablablabla blablablablablabla blablabla blablabla.
 <br>
 <br>
@@ -324,8 +340,10 @@ These applications were built using cross-platform tools, like Html, CSS, JS, jQ
 1. Create the other functionalities/screens of the app;
 
 [Back to Top](#top)
+----
 
 ### Obs:
 The app can be seen [here](https://tinder-clone-c1a91.web.app)
 
 [Back to Top](#top)
+----
