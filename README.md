@@ -4,9 +4,9 @@ iOS Applications           |  Android Applications
 :-------------------------:|:-------------------------:
 [![AppStore](icons/apple-badge-black.png "AppStore")](https://tinyurl.com/y4qs4c9l) | [![Google Play](icons/google-play-badge.png "Google Play")](https://tinyurl.com/y3ctuzmm)
 
-##### These are the applications built and deployed during my work at [Medtouch](https://www.medtouch.com.br)
+##### These are the applications built and deployed during my work at [Medtouch](https://www.medtouch.com.br).  During these over 8 years, I've built over 10 apps for the [iOS Platform](#ios) and 5 for the [Android Platform](#android).
 
-### iOS Applications:
+<h3 id="ios">iOS Applications:</h3>
 
 These applications were built using Objective-C and some were rebuilt with Swift.<br>I'll try to show the main features of each one and what can be done to improve them.
 
@@ -195,6 +195,12 @@ These applications were built using Objective-C and some were rebuilt with Swift
 ### Improvements:
 
 1. Create the other functionalities/screens of the app;
+
+[Back to Top](#top)
+
+<h3 id="android">Android Applications:</h3>
+
+These applications were built using cross-platform tools, like Html, CSS, JS, jQuery, Bootstrap, React, PhoneGap, Cordova, etc..<br>I'll try to show the main features of each one and what can be done to improve them.
 
 [Back to Top](#top)
 
