@@ -14,6 +14,8 @@ These applications were built using Objective-C and some were rebuilt with Swift
 
 <h2 id="codeblue">Code Blue</h2>
 <img align="left" src="icons/Icon_CodeBlue_60.png"><b>Code Blue</b> is an application blablabla blablablablablabla blablablablablabla blablabla blablabla.
+<br>
+<br>
 
 ### Features: 
 1. Created a database in Firebase and connected to the app, with the names and images to be shown on the cards;
@@ -36,6 +38,8 @@ These applications were built using Objective-C and some were rebuilt with Swift
 
 <h2 id="condutas">Condutas em Emergência(Emergency Conducts)</h2>
 <img align="left" src="icons/Icon_Conds60.png"><b>Condutas em Emergência</b> is an application blablabla blablablablablabla blablablablablabla blablabla blablabla.<br>
+<br>
+<br>
 
 ### Features: 
 1. Created a database in Firebase and connected to the app, with the names and images to be shown on the cards;
@@ -52,6 +56,8 @@ These applications were built using Objective-C and some were rebuilt with Swift
 
 <h2 id="dengue">Dengue</h2>
 <img align="left" src="icons/Icon_Dengue_60.png"><b>Dengue</b> is an application blablabla blablablablablabla blablablablablabla blablabla blablabla.
+<br>
+<br>
 
 ### Features: 
 1. Created a database in Firebase and connected to the app, with the names and images to be shown on the cards;
@@ -68,6 +74,8 @@ These applications were built using Objective-C and some were rebuilt with Swift
 
 <h2 id="doccalc">DocCalc</h2>
 <img align="left" src="icons/Icon_DocCalc_60.png"><b>DocCalc</b> is an application blablabla blablablablablabla blablablablablabla blablabla blablabla.
+<br>
+<br>
 
 ### Features: 
 1. Created a database in Firebase and connected to the app, with the names and images to be shown on the cards;
@@ -84,6 +92,8 @@ These applications were built using Objective-C and some were rebuilt with Swift
 
 <h2 id="drogas">Drogas em Emergência & CTI(4 Idioms: PT, EN, ES, CH)</h2>
 <img align="left" src="icons/Icon_Drogas_60.png"><b>Drogas em Emergência</b> is an application blablabla blablablablablabla blablablablablabla blablabla blablabla.
+<br>
+<br>
 
 ### Features: 
 1. Created a database in Firebase and connected to the app, with the names and images to be shown on the cards;
@@ -100,6 +110,8 @@ These applications were built using Objective-C and some were rebuilt with Swift
 
 <h2 id="drugs">Drugs in Emergency</h2>
 <img align="left" src="icons/Icon_Drugs_60.png"><b>Drugs in Emergency</b> is an application blablabla blablablablablabla blablablablablabla blablabla blablabla.
+<br>
+<br>
 
 ### Features: 
 1. Created a database in Firebase and connected to the app, with the names and images to be shown on the cards;
@@ -116,6 +128,8 @@ These applications were built using Objective-C and some were rebuilt with Swift
 
 <h2 id="epons">Epônimos</h2>
 <img align="left" src="icons/Icon_Epons-60.png"><b>Epônimos</b> is an application blablabla blablablablablabla blablablablablabla blablabla blablabla.
+<br>
+<br>
 
 ### Features: 
 1. Created a database in Firebase and connected to the app, with the names and images to be shown on the cards;
@@ -132,6 +146,8 @@ These applications were built using Objective-C and some were rebuilt with Swift
 
 <h2 id="gravlact">Gravidez e Lactação</h2>
 <img align="left" src="icons/Icon_GravLact_60.png"><b>Gravidez e Lactação</b> is an application blablabla blablablablablabla blablablablablabla blablabla blablabla.
+<br>
+<br>
 
 ### Features: 
 1. Created a database in Firebase and connected to the app, with the names and images to be shown on the cards;
@@ -148,6 +164,8 @@ These applications were built using Objective-C and some were rebuilt with Swift
 
 <h2 id="guiaatms">Guia de Antimicrobianos</h2>
 <img align="left" src="icons/Icon_GuiaATMs-60.png"><b>Guia de Antimicrobianos</b> is an application blablabla blablablablablabla blablablablablabla blablabla blablabla.
+<br>
+<br>
 
 ### Features: 
 1. Created a database in Firebase and connected to the app, with the names and images to be shown on the cards;
@@ -164,6 +182,8 @@ These applications were built using Objective-C and some were rebuilt with Swift
 
 <h2 id="prescs">Prescrições Médicas</h2>
 <img align="left" src="icons/Icon_Presc_60.png"><b>Prescrições Médicas</b> is an application blablabla blablablablablabla blablablablablabla blablabla blablabla.
+<br>
+<br>
 
 ### Features: 
 1. Created a database in Firebase and connected to the app, with the names and images to be shown on the cards;
