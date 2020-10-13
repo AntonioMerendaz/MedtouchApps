@@ -1,6 +1,6 @@
 <h1 id="top">Medtouch Applications</h2>
 
-##### These are the applications built and deployed during my work at [Medtouch](https://www.medtouch.com.br).  During these over 8 years, I've built over 10 apps for the [iOS Platform](#ios) and 5 for the [Android Platform](#android).
+##### These are the applications built and deployed during my work at [Medtouch](https://www.medtouch.com.br).  During these over 8 years, I've built over 10 apps for the [iOS Platform](https://apple.co/36UutcL) and 5 for the [Android Platform](https://www.shorturl.at/fyFMQ).
 
 ### iOS:
 
@@ -347,4 +347,4 @@ The app can be seen [here](https://tinder-clone-c1a91.web.app)
 
 iOS Applications           |  Android Applications
 :-------------------------:|:-------------------------:
-[![AppStore](icons/apple-badge-black.png "AppStore")](https://tinyurl.com/y4qs4c9l) | [![Google Play](icons/google-play-badge.png "Google Play")](https://tinyurl.com/y3ctuzmm)
+[![AppStore](icons/apple-badge-black.png "AppStore")](https://tinyurl.com/y4qs4c9l) | [![Google Play](icons/google-play-badge.png "Google Play")](https://shorturl.at/fyFMQ)
