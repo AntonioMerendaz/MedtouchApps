@@ -28,8 +28,6 @@ These applications were built using Objective-C and some were rebuilt with Swift
 
 2. A ***Header/NavBar*** with three icons;
 
-[![Header](icons/Icon_CodeBlue_60.png)](https://www.medtouch.com.br)
-
 3. A body with a stack of cards, with the functionality of swipe right or left;
 
 ### Improvements:
