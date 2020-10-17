@@ -19,7 +19,7 @@ These applications were built using Objective-C and some were rebuilt with Swift
 ----
 
 <h3 id="codeblue">Code Blue</h3>
-<img align="left" src="icons/Icon_CodeBlue_60.png"><b>Code Blue</b> is an application blablabla blablablablablabla blablablablablabla blablabla blablabla.
+<img align="left" src="icons/Icon_CodeBlue_60.png"><b>Code Blue</b> The most complete application of Intensive Care Medicine in Brazil, developed by doctors qualified by AMIB!
 <br>
 <br>
 
@@ -44,7 +44,7 @@ These applications were built using Objective-C and some were rebuilt with Swift
 ----
 
 <h3 id="condutas">Condutas em Emergência</h3>
-<img align="left" src="icons/Icon_Conds60.png"><b>Condutas em Emergência</b> is an application blablabla blablablablablabla blablablablablabla blablabla blablabla.<br>
+<img align="left" src="icons/Icon_Conds60.png"><b>Condutas em Emergência</b> Your emergency shifts will be calmer now. Fast and reliable information on more than 30 serious diseases!<br>
 <br>
 <br>
 
@@ -63,7 +63,7 @@ These applications were built using Objective-C and some were rebuilt with Swift
 ----
 
 <h3 id="dengue">Dengue</h3>
-<img align="left" src="icons/Icon_Dengue_60.png"><b>Dengue</b> is an application blablabla blablablablablabla blablablablablabla blablabla blablabla.
+<img align="left" src="icons/Icon_Dengue_60.png"><b>Dengue</b> Diagnostic and therapeutic management guide for adults and children prepared by the Ministry of Health.
 <br>
 <br>
 
@@ -82,7 +82,7 @@ These applications were built using Objective-C and some were rebuilt with Swift
 ----
 
 <h3 id="doccalc">DocCalc</h3>
-<img align="left" src="icons/Icon_DocCalc_60.png"><b>DocCalc</b> is an application blablabla blablablablablabla blablablablablabla blablabla blablabla.
+<img align="left" src="icons/Icon_DocCalc_60.png"><b>DocCalc</b> More than 300 medical calculations, with algorithms, scores, unit converters, classifications, formulas, diagnostic and prognostic criteria, to assist in your medical practice.
 <br>
 <br>
 
@@ -101,7 +101,7 @@ These applications were built using Objective-C and some were rebuilt with Swift
 ----
 
 <h3 id="draureo">Dr Aureo</h3>
-<img align="left" src="icons/Icon_DrAureo_60.png"><b>Drogas em Emergência</b> is an application blablabla blablablablablabla blablablablablabla blablabla blablabla.
+<img align="left" src="icons/Icon_DrAureo_60.png"><b>Dr. Aureo</b> Application for Dr. Aureo's patients. Various information about your doctor. Tips on health and medical examinations, calculations (BMI, ideal weight, etc.) and recommendations from professionals in other specialties.
 <br>
 <br>
 
@@ -120,7 +120,7 @@ These applications were built using Objective-C and some were rebuilt with Swift
 ----
 
 <h3 id="drogas">Drogas em Emergência & CTI</h3>
-<img align="left" src="icons/Icon_Drogas_60.png"><b>Drogas em Emergência</b> is an application blablabla blablablablablabla blablablablablabla blablabla blablabla.
+<img align="left" src="icons/Icon_Drogas_60.png"><b>Drogas em Emergência</b> A quick reference guide with the main drugs used in emergency and intensive care, made by physicians who work "on the front line"!
 <br>
 <br>
 
@@ -138,27 +138,8 @@ These applications were built using Objective-C and some were rebuilt with Swift
 [Back to Top](#top)
 ----
 
-<h3 id="drugs">Drugs in Emergency</h3>
-<img align="left" src="icons/Icon_Drugs_60.png"><b>Drugs in Emergency</b> is an application blablabla blablablablablabla blablablablablabla blablabla blablabla.
-<br>
-<br>
-
-### Features: 
-1. Created a database in Firebase and connected to the app, with the names and images to be shown on the cards;
-
-2. A ***Header/NavBar*** with three icons;
-
-3. A body with a stack of cards, with the functionality of swipe right or left;
-
-### Improvements:
-
-1. Create the other functionalities/screens of the app;
-
-[Back to Top](#top)
-----
-
 <h3 id="epons">Epônimos</h3>
-<img align="left" src="icons/Icon_Epons-60.png"><b>Epônimos</b> is an application blablabla blablablablablabla blablablablablabla blablabla blablabla.
+<img align="left" src="icons/Icon_Epons-60.png"><b>Epônimos</b> THE WORLD'S MOST COMPLETE APP IN THE GENDER! More than 4000 terms in Medicine, Dentistry, Nutrition, Physiotherapy and Nursing!!!
 <br>
 <br>
 
@@ -177,7 +158,7 @@ These applications were built using Objective-C and some were rebuilt with Swift
 ----
 
 <h3 id="gravlact">Gravidez e Lactação</h3>
-<img align="left" src="icons/Icon_GravLact_60.png"><b>Gravidez e Lactação</b> is an application blablabla blablablablablabla blablablablablabla blablabla blablabla.
+<img align="left" src="icons/Icon_GravLact_60.png"><b>Gravidez e Lactação</b> A reliable guide containing Conducts, Calculators and Drug Guide for the management of pregnant and lactating women, in a FRIENDLY INTERFACE!
 <br>
 <br>
 
@@ -196,7 +177,7 @@ These applications were built using Objective-C and some were rebuilt with Swift
 ----
 
 <h3 id="guiaatms">Guia de Antimicrobianos</h3>
-<img align="left" src="icons/Icon_GuiaATMs-60.png"><b>Guia de Antimicrobianos</b> is an application blablabla blablablablablabla blablablablablabla blablabla blablabla.
+<img align="left" src="icons/Icon_GuiaATMs-60.png"><b>Guia de Antimicrobianos</b> Therapeutic indications for more than 500 infections, in adults and children; Surgical prophylaxis; Pharmacological Guide; 180 Most common bacteria, calculators, etc.
 <br>
 <br>
 
@@ -215,7 +196,7 @@ These applications were built using Objective-C and some were rebuilt with Swift
 ----
 
 <h3 id="prescs">Prescrições Médicas</h3>
-<img align="left" src="icons/Icon_Presc_60.png"><b>Prescrições Médicas</b> is an application blablabla blablablablablabla blablablablablabla blablabla blablabla.
+<img align="left" src="icons/Icon_Presc_60.png"><b>Prescrições Médicas</b> A true EVIDENCE-BASED medical prescriptions guide, written by SPECIALIST DOCTORS!
 <br>
 <br>
 
@@ -241,7 +222,7 @@ These applications were built using cross-platform tools, like Html, CSS, JS, jQ
 ----
 
 <h3 id="codeblueA">Code Blue</h3>
-<img align="left" src="icons/Icon_CodeBlue_60.png"><b>Code Blue</b> is an application blablabla blablablablablabla blablablablablabla blablabla blablabla.
+<img align="left" src="icons/Icon_CodeBlue_60.png"><b>Code Blue</b> The most complete application of Intensive Care Medicine in Brazil, developed by doctors qualified by AMIB!
 <br>
 <br>
 
@@ -266,7 +247,7 @@ These applications were built using cross-platform tools, like Html, CSS, JS, jQ
 ----
 
 <h3 id="dengueA">Dengue</h3>
-<img align="left" src="icons/Icon_Dengue_60.png"><b>Dengue</b> is an application blablabla blablablablablabla blablablablablabla blablabla blablabla.
+<img align="left" src="icons/Icon_Dengue_60.png"><b>Dengue</b> Diagnostic and therapeutic management guide for adults and children prepared by the Ministry of Health.
 <br>
 <br>
 
@@ -285,7 +266,7 @@ These applications were built using cross-platform tools, like Html, CSS, JS, jQ
 ----
 
 <h3 id="doccalcA">DocCalc</h3>
-<img align="left" src="icons/Icon_DocCalc_60.png"><b>DocCalc</b> is an application blablabla blablablablablabla blablablablablabla blablabla blablabla.
+<img align="left" src="icons/Icon_DocCalc_60.png"><b>DocCalc</b> More than 300 medical calculations, with algorithms, scores, unit converters, classifications, formulas, diagnostic and prognostic criteria, to assist in your medical practice.
 <br>
 <br>
 
@@ -304,7 +285,7 @@ These applications were built using cross-platform tools, like Html, CSS, JS, jQ
 ----
 
 <h3 id="draureoA">Dr Aureo</h3>
-<img align="left" src="icons/Icon_DrAureo_60.png"><b>Drogas em Emergência</b> is an application blablabla blablablablablabla blablablablablabla blablabla blablabla.
+<img align="left" src="icons/Icon_DrAureo_60.png"><b>Dr. Aureo</b> Application for Dr. Aureo's patients. Various information about your doctor. Tips on health and medical examinations, calculations (BMI, ideal weight, etc.) and recommendations from professionals in other specialties.
 <br>
 <br>
 
@@ -323,7 +304,7 @@ These applications were built using cross-platform tools, like Html, CSS, JS, jQ
 ----
 
 <h3 id="drogasA">Drogas em Emergência & CTI(4 Idioms: PT, EN, ES, CH)</h3>
-<img align="left" src="icons/Icon_Drogas_60.png"><b>Drogas em Emergência</b> is an application blablabla blablablablablabla blablablablablabla blablabla blablabla.
+<img align="left" src="icons/Icon_Drogas_60.png"><b>Drogas em Emergência</b> A quick reference guide with the main drugs used in emergency and intensive care, made by physicians who work "on the front line"!
 <br>
 <br>
 
@@ -347,6 +328,24 @@ The app can be seen [here](https://tinder-clone-c1a91.web.app)
 [Back to Top](#top)
 ----
 
+<h3 id="prescs">Prescrições Médicas</h3>
+<img align="left" src="icons/Icon_Presc_60.png"><b>Prescrições Médicas</b> A true EVIDENCE-BASED medical prescriptions guide, written by SPECIALIST DOCTORS!
+<br>
+<br>
+
+### Features: 
+1. Created a database in Firebase and connected to the app, with the names and images to be shown on the cards;
+
+2. A ***Header/NavBar*** with three icons;
+
+3. A body with a stack of cards, with the functionality of swipe right or left;
+
+### Improvements:
+
+1. Create the other functionalities/screens of the app;
+
+[Back to Top](#top)
+----
 
 iOS Applications           |  Android Applications
 :-------------------------:|:-------------------------:
