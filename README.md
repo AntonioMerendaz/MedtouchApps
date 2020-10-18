@@ -20,7 +20,7 @@ These applications were built using Objective-C and some were rebuilt with Swift
 
 
 <h3 id="codeblue">Code Blue</h3>
-<div style="display:inline-block; vertical-align:middle; text-align:center;" >
+<div style="display:inline-block;" >
   <img style="height:60px;" src="icons/Icon_CodeBlue_60.png">
 </div>
 <div style="display:inline-block;vertical-align: middle;">
