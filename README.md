@@ -18,9 +18,14 @@ These applications were built using Objective-C and some were rebuilt with Swift
 [Back to Top](#top)
 ----
 
+
 <h3 id="codeblue">Code Blue</h3>
-<div style="vertical-align:middle">
-<img align="left" src="icons/Icon_CodeBlue_60.png">The most complete application of Intensive Care Medicine in Brazil, developed by doctors qualified by AMIB!</div>
+<div style="display:inline-block;vertical-align: middle; align: left;" >
+  <img src="icons/Icon_CodeBlue_60.png">
+</div>
+<div style="display:inline-block;vertical-align: middle;">
+  The most complete application of Intensive Care Medicine in Brazil, developed by doctors qualified by AMIB!
+</div>
 <br>
 <br>
 
