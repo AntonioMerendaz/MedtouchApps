@@ -23,7 +23,7 @@ These applications were built using Objective-C and some were rebuilt with Swift
 <div style="display:inline-block; min-width:2.2cm; height:3.8cm; align: center;">
   <img style="height:60px;" src="icons/Icon_CodeBlue_60.png">
 </div>
-<div style="display:inline-block;vertical-align: middle;">
+<div style="display:inline-block; min-width:3.8cm;">
   The most complete application of Intensive Care Medicine in Brazil, developed by doctors qualified by AMIB!
 </div>
 
