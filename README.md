@@ -18,10 +18,10 @@ These applications were built using Objective-C and some were rebuilt with Swift
 [Back to Top](#top)
 ----
 
-  <h3 id="codeblue">Code Blue</h3>
-  <div style="display:inline-block; min-width:2.2cm; height:3.8cm; align: center;">
-    <img style="height:60px;" src="icons/Icon_CodeBlue_60.png">
-    <p style="vertical-align:middle">The most complete application of Intensive Care Medicine in Brazil, developed by doctors qualified by AMIB!</p>
+<h3 id="codeblue">Code Blue</h3>
+<img style="align:left;" src="icons/Icon_CodeBlue_60.png">The most complete application of Intensive Care Medicine in Brazil, developed by specialist doctors qualified by AMIB!
+<br>
+<br>
 
 ### Features: 
 1. Created a database in Firebase and connected to the app, with the names and images to be shown on the cards;
