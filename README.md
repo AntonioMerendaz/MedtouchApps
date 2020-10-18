@@ -26,8 +26,6 @@ These applications were built using Objective-C and some were rebuilt with Swift
 <div style="display:inline-block;vertical-align: middle;">
   The most complete application of Intensive Care Medicine in Brazil, developed by doctors qualified by AMIB!
 </div>
-<br>
-<br>
 
 ### Features: 
 1. Created a database in Firebase and connected to the app, with the names and images to be shown on the cards;
