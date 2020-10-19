@@ -28,8 +28,12 @@ These applications were built using Objective-C and some were rebuilt with Swift
 
 ### Features: 
 1. Built using Objective-C language;
-2. The use of;
-3. A body with a stack of cards, with the functionality of swipe right or left;
+2. Use of custom table view index, using the first three letters of the category;
+3. One can also highlight the use of javascript commands inside the objective-C code (use of search bar to find and highlight keywords in the text);
+4. Use of the library FPPopover to create a Popover of the Titles of text on the first tab;
+5. Use of MFSideMenu library to create a Side Menu ("drawer") on first tab;
+6. 88 Calculators, 201 Drugs and 119 Trials(Article summaries) built using HTML/CSS/Javascript and wrapped in a webview;
+7. A Notes part, where you can save you simple notes for futture consultation;
 
 ### Improvements:
 1. Create the other functionalities/screens of the app;
