@@ -26,18 +26,13 @@ These applications were built using Objective-C and some were rebuilt with Swift
 
 ### Features: 
 1.  Built using Objective-C language;
-
 2. A ***Header/NavBar*** with three icons;
-
 3. A body with a stack of cards, with the functionality of swipe right or left;
 
 ### Improvements:
-
 1. Create the other functionalities/screens of the app;
-
 2. Put each and every one button to work properly;
-
-2. Authentication for the users in Firebase;
+3. Authentication for the users in Firebase;
 
 [Back to Top](#top)
 ----
@@ -53,7 +48,6 @@ These applications were built using Objective-C and some were rebuilt with Swift
 3. A body with a stack of cards, with the functionality of swipe right or left;
 
 ### Improvements:
-
 1. Create the other functionalities/screens of the app;
 
 [Back to Top](#top)
