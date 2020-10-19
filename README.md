@@ -25,7 +25,7 @@ These applications were built using Objective-C and some were rebuilt with Swift
 <br>
 
 ### Features: 
-1. Created a database in Firebase and connected to the app, with the names and images to be shown on the cards;
+1.  Built using Objective-C language;
 
 2. A ***Header/NavBar*** with three icons;
 
@@ -48,7 +48,7 @@ These applications were built using Objective-C and some were rebuilt with Swift
 <br>
 
 ### Features: 
-1. Created a database in Firebase and connected to the app, with the names and images to be shown on the cards;
+1.  Built using Objective-C language;
 
 2. A ***Header/NavBar*** with three icons;
 
@@ -67,7 +67,7 @@ These applications were built using Objective-C and some were rebuilt with Swift
 <br>
 
 ### Features: 
-1. Created a database in Firebase and connected to the app, with the names and images to be shown on the cards;
+1.  Built using Objective-C language;
 
 2. A ***Header/NavBar*** with three icons;
 
@@ -86,7 +86,7 @@ These applications were built using Objective-C and some were rebuilt with Swift
 <br>
 
 ### Features: 
-1. Created a database in Firebase and connected to the app, with the names and images to be shown on the cards;
+1.  Built using Objective-C language;
 
 2. A ***Header/NavBar*** with three icons;
 
@@ -105,7 +105,7 @@ These applications were built using Objective-C and some were rebuilt with Swift
 <br>
 
 ### Features: 
-1. Created a database in Firebase and connected to the app, with the names and images to be shown on the cards;
+1.  Built in Html/CSS/JS, using Apache Cordova to wrap in native code;
 
 2. A ***Header/NavBar*** with three icons;
 
@@ -124,11 +124,14 @@ These applications were built using Objective-C and some were rebuilt with Swift
 <br>
 
 ### Features: 
-1. 4 Idioms: PT, EN, ES, CH;
 
-2. A ***Header/NavBar*** with three icons;
+1.  Built using Objective-C language;
 
-3. A body with a stack of cards, with the functionality of swipe right or left;
+2. 4 Idioms: PT, EN, ES, CH;
+
+3. A ***Header/NavBar*** with three icons;
+
+4. A body with a stack of cards, with the functionality of swipe right or left;
 
 ### Improvements:
 
@@ -143,7 +146,7 @@ These applications were built using Objective-C and some were rebuilt with Swift
 <br>
 
 ### Features: 
-1. Created a database in Firebase and connected to the app, with the names and images to be shown on the cards;
+1.  Built using Objective-C language;
 
 2. A ***Header/NavBar*** with three icons;
 
@@ -162,7 +165,7 @@ These applications were built using Objective-C and some were rebuilt with Swift
 <br>
 
 ### Features: 
-1. Created a database in Firebase and connected to the app, with the names and images to be shown on the cards;
+1.  Built using Objective-C language;
 
 2. A ***Header/NavBar*** with three icons;
 
@@ -181,7 +184,7 @@ These applications were built using Objective-C and some were rebuilt with Swift
 <br>
 
 ### Features: 
-1. Created a database in Firebase and connected to the app, with the names and images to be shown on the cards;
+1.  Built using Objective-C language;
 
 2. A ***Header/NavBar*** with three icons;
 
@@ -200,7 +203,7 @@ These applications were built using Objective-C and some were rebuilt with Swift
 <br>
 
 ### Features: 
-1. Created a database in Firebase and connected to the app, with the names and images to be shown on the cards;
+1.  Built using Objective-C language;
 
 2. A ***Header/NavBar*** with three icons;
 
@@ -251,7 +254,7 @@ These applications were built using cross-platform tools, like Html, CSS, JS, jQ
 <br>
 
 ### Features: 
-1. Created a database in Firebase and connected to the app, with the names and images to be shown on the cards;
+1.  Built in Html/CSS/JS, using, firstly, Intel XDK, then Apache Cordova to wrap in native code;
 
 2. A ***Header/NavBar*** with three icons;
 
@@ -270,7 +273,7 @@ These applications were built using cross-platform tools, like Html, CSS, JS, jQ
 <br>
 
 ### Features: 
-1. Created a database in Firebase and connected to the app, with the names and images to be shown on the cards;
+1.  Built in Html/CSS/JS, using, firstly, Intel XDK, then Apache Cordova to wrap in native code;
 
 2. A ***Header/NavBar*** with three icons;
 
@@ -289,7 +292,7 @@ These applications were built using cross-platform tools, like Html, CSS, JS, jQ
 <br>
 
 ### Features: 
-1. Created a database in Firebase and connected to the app, with the names and images to be shown on the cards;
+1.  Built in Html/CSS/JS, using, firstly, Intel XDK, then Apache Cordova to wrap in native code;
 
 2. A ***Header/NavBar*** with three icons;
 
@@ -308,7 +311,7 @@ These applications were built using cross-platform tools, like Html, CSS, JS, jQ
 <br>
 
 ### Features: 
-1. Created a database in Firebase and connected to the app, with the names and images to be shown on the cards;
+1.  Built in Html/CSS/JS, using, firstly, Intel XDK, then Apache Cordova to wrap in native code;
 
 2. A ***Header/NavBar*** with three icons;
 
@@ -333,7 +336,7 @@ The app can be seen [here](https://tinder-clone-c1a91.web.app)
 <br>
 
 ### Features: 
-1. Created a database in Firebase and connected to the app, with the names and images to be shown on the cards;
+1.  Built in Html/CSS/JS, using, firstly, Intel XDK, then Apache Cordova to wrap in native code;
 
 2. A ***Header/NavBar*** with three icons;
 
