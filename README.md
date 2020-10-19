@@ -1,6 +1,7 @@
 <h1 id="top">Medtouch Applications</h2>
 
 ##### These are the applications built and deployed during my work at [Medtouch](https://www.medtouch.com.br).  During these over 8 years, I've built over 10 apps for the [iOS Platform](#appios) and 5 for the [Android Platform](#appandroid).
+It is worth mentioning that most of the applications for the iOS platform were built in Objective-C, using all different types of tools and frameworks avalable at he time and the Android applications were done in HTML/CSS/JS/jQuery/Bootstrap and using cross-platform tools like Intel XDK, PhoneGap and Apache Cordova to wrap into native builds!
 
 ### iOS:
 
