@@ -49,9 +49,7 @@ These applications were built using Objective-C and some were rebuilt with Swift
 
 ### Features: 
 1.  Built using Objective-C language;
-
 2. A ***Header/NavBar*** with three icons;
-
 3. A body with a stack of cards, with the functionality of swipe right or left;
 
 ### Improvements:
