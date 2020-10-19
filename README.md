@@ -1,8 +1,6 @@
 <h1 id="top">Medtouch Applications</h2>
 
-###### These are the applications built and deployed during my work at [Medtouch](https://www.medtouch.com.br).  During these over 8 years, I've built over 10 apps for the [iOS Platform](#appios) and 5 for the [Android Platform](#appandroid) and the respective app updates for both platforms.
-###### It is worth mentioning that most of the applications for the iOS platform were built in Objective-C, using all different types of tools and frameworks available at the time and the Android applications were done in HTML/CSS/JS/jQuery/Bootstrap and using cross-platform tools like Intel XDK, PhoneGap and Apache Cordova to wrap into native builds!
-###### Another aspect to take into account is the "timing". Some features that with the current tools and frameworks are trivial to do, was done/built "manually" and I'll present this as it was at that time (innovative, difficult to accomplish).
+###### These are the applications built and deployed during my work at [Medtouch](https://www.medtouch.com.br).  During these over 8 years, I've built over 10 apps for the [iOS Platform](#appios) and 5 for the [Android Platform](#appandroid) and the respective app updates for both platforms.<br>It is worth mentioning that most of the applications for the iOS platform were built in Objective-C, using all different types of tools and frameworks available at the time and the Android applications were done in HTML/CSS/JS/jQuery/Bootstrap and using cross-platform tools like Intel XDK, PhoneGap and Apache Cordova to wrap into native builds!<br>Another aspect to take into account is the "timing". Some features that with the current tools and frameworks are trivial to do, was done/built "manually" and I'll present this as it was at that time (innovative, difficult to accomplish).
 
 ### iOS:
 
@@ -20,8 +18,7 @@ These applications were built using Objective-C and some were rebuilt with Swift
 [Back to Top](#top)
 ----
 
-<h3 id="codeblue">Code Blue</h3>
-<img align="left" src="icons/Icon_CodeBlue_60.png">The most complete application of Intensive Care Medicine in Brazil, developed by specialist doctors qualified by AMIB!
+[![Code Blue](icons/Icon_CodeBlue_60.png "Code Blue - iOS")]<h3 id="codeblue">Code Blue</h3>The most complete application of Intensive Care Medicine in Brazil, developed by specialist doctors qualified by AMIB!
 
 <br>
 <br>
