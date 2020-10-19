@@ -66,13 +66,10 @@ These applications were built using Objective-C and some were rebuilt with Swift
 
 ### Features: 
 1.  Built using Objective-C language;
-
 2. A ***Header/NavBar*** with three icons;
-
 3. A body with a stack of cards, with the functionality of swipe right or left;
 
 ### Improvements:
-
 1. Create the other functionalities/screens of the app;
 
 [Back to Top](#top)
@@ -85,13 +82,10 @@ These applications were built using Objective-C and some were rebuilt with Swift
 
 ### Features: 
 1.  Built using Objective-C language;
-
 2. A ***Header/NavBar*** with three icons;
-
 3. A body with a stack of cards, with the functionality of swipe right or left;
 
 ### Improvements:
-
 1. Create the other functionalities/screens of the app;
 
 [Back to Top](#top)
@@ -104,13 +98,10 @@ These applications were built using Objective-C and some were rebuilt with Swift
 
 ### Features: 
 1.  Built in Html/CSS/JS, using Apache Cordova to wrap in native code;
-
 2. A ***Header/NavBar*** with three icons;
-
 3. A body with a stack of cards, with the functionality of swipe right or left;
 
 ### Improvements:
-
 1. Create the other functionalities/screens of the app;
 
 [Back to Top](#top)
@@ -122,17 +113,12 @@ These applications were built using Objective-C and some were rebuilt with Swift
 <br>
 
 ### Features: 
-
 1.  Built using Objective-C language;
-
 2. 4 Idioms: PT, EN, ES, CH;
-
 3. A ***Header/NavBar*** with three icons;
-
 4. A body with a stack of cards, with the functionality of swipe right or left;
 
 ### Improvements:
-
 1. Create the other functionalities/screens of the app;
 
 [Back to Top](#top)
@@ -145,13 +131,10 @@ These applications were built using Objective-C and some were rebuilt with Swift
 
 ### Features: 
 1.  Built using Objective-C language;
-
 2. A ***Header/NavBar*** with three icons;
-
 3. A body with a stack of cards, with the functionality of swipe right or left;
 
 ### Improvements:
-
 1. Create the other functionalities/screens of the app;
 
 [Back to Top](#top)
@@ -164,13 +147,10 @@ These applications were built using Objective-C and some were rebuilt with Swift
 
 ### Features: 
 1.  Built using Objective-C language;
-
 2. A ***Header/NavBar*** with three icons;
-
 3. A body with a stack of cards, with the functionality of swipe right or left;
 
 ### Improvements:
-
 1. Create the other functionalities/screens of the app;
 
 [Back to Top](#top)
@@ -183,13 +163,10 @@ These applications were built using Objective-C and some were rebuilt with Swift
 
 ### Features: 
 1.  Built using Objective-C language;
-
 2. A ***Header/NavBar*** with three icons;
-
 3. A body with a stack of cards, with the functionality of swipe right or left;
 
 ### Improvements:
-
 1. Create the other functionalities/screens of the app;
 
 [Back to Top](#top)
@@ -202,20 +179,16 @@ These applications were built using Objective-C and some were rebuilt with Swift
 
 ### Features: 
 1.  Built using Objective-C language;
-
 2. A ***Header/NavBar*** with three icons;
-
 3. A body with a stack of cards, with the functionality of swipe right or left;
 
 ### Improvements:
-
 1. Create the other functionalities/screens of the app;
 
 [Back to Top](#top)
 ----
 
 <h2 id="appandroid">Android Applications:</h2>
-
 These applications were built using cross-platform tools, like Html, CSS, JS, jQuery, Bootstrap, React, PhoneGap, Cordova, etc..<br>I'll try to show the main features of each one and what can be done to improve them.
 
 [Back to Top](#top)
@@ -228,20 +201,13 @@ These applications were built using cross-platform tools, like Html, CSS, JS, jQ
 
 ### Features: 
 1. Created a database in Firebase and connected to the app, with the names and images to be shown on the cards;
-
 2. A ***Header/NavBar*** with three icons;
-
-[![Header](icons/Icon_CodeBlue_60.png)](https://www.medtouch.com.br)
-
 3. A body with a stack of cards, with the functionality of swipe right or left;
 
 ### Improvements:
-
 1. Create the other functionalities/screens of the app;
-
 2. Put each and every one button to work properly;
-
-2. Authentication for the users in Firebase;
+3. Authentication for the users in Firebase;
 
 [Back to Top](#top)
 ----
@@ -253,13 +219,10 @@ These applications were built using cross-platform tools, like Html, CSS, JS, jQ
 
 ### Features: 
 1.  Built in Html/CSS/JS, using, firstly, Intel XDK, then Apache Cordova to wrap in native code;
-
 2. A ***Header/NavBar*** with three icons;
-
 3. A body with a stack of cards, with the functionality of swipe right or left;
 
 ### Improvements:
-
 1. Create the other functionalities/screens of the app;
 
 [Back to Top](#top)
@@ -272,13 +235,10 @@ These applications were built using cross-platform tools, like Html, CSS, JS, jQ
 
 ### Features: 
 1.  Built in Html/CSS/JS, using, firstly, Intel XDK, then Apache Cordova to wrap in native code;
-
 2. A ***Header/NavBar*** with three icons;
-
 3. A body with a stack of cards, with the functionality of swipe right or left;
 
 ### Improvements:
-
 1. Create the other functionalities/screens of the app;
 
 [Back to Top](#top)
@@ -291,13 +251,10 @@ These applications were built using cross-platform tools, like Html, CSS, JS, jQ
 
 ### Features: 
 1.  Built in Html/CSS/JS, using, firstly, Intel XDK, then Apache Cordova to wrap in native code;
-
 2. A ***Header/NavBar*** with three icons;
-
 3. A body with a stack of cards, with the functionality of swipe right or left;
 
 ### Improvements:
-
 1. Create the other functionalities/screens of the app;
 
 [Back to Top](#top)
@@ -310,13 +267,10 @@ These applications were built using cross-platform tools, like Html, CSS, JS, jQ
 
 ### Features: 
 1.  Built in Html/CSS/JS, using, firstly, Intel XDK, then Apache Cordova to wrap in native code;
-
 2. A ***Header/NavBar*** with three icons;
-
 3. A body with a stack of cards, with the functionality of swipe right or left;
 
 ### Improvements:
-
 1. Create the other functionalities/screens of the app;
 
 [Back to Top](#top)
@@ -335,13 +289,10 @@ The app can be seen [here](https://tinder-clone-c1a91.web.app)
 
 ### Features: 
 1.  Built in Html/CSS/JS, using, firstly, Intel XDK, then Apache Cordova to wrap in native code;
-
 2. A ***Header/NavBar*** with three icons;
-
 3. A body with a stack of cards, with the functionality of swipe right or left;
 
 ### Improvements:
-
 1. Create the other functionalities/screens of the app;
 
 [Back to Top](#top)
