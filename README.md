@@ -26,7 +26,7 @@ Most of the applications for the iOS platform were built in Objective-C, using a
 1. Built using Objective-C language;
 2. Use of custom table view index, using the first three letters of the category;
 3. Javascript commands inside the objective-C code (use of search bar to find and highlight keywords in the text);
-4. Use of the FPPopover and MFSideMenu libraries on the first tab, the first to create a Popover with the titles of text and the second to create a Side Menu ("drawer");
+4. Use of the FPPopover and MFSideMenu libraries on the first tab, the first to create a Popover with the topics of text and the second to create a Side Menu ("drawer");
 5. 88 Calculators, 201 Drugs and 119 Trials(Article summaries) built using HTML/CSS/Javascript and wrapped in a webview;
 7. A Notes part, where you can save you simple notes for futture consultation;
 
