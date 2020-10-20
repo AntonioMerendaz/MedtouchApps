@@ -39,7 +39,7 @@ Most of the applications for the iOS platform were built in Objective-C, using a
 [Back to Top](#top)
 ----
 
-<img id="condutas" align="left" src="icons/Icon_Conds60.png"><b>Condutas em Emergência</b><br>Your emergency shifts will be calmer now. Fast and reliable information on more than 30 serious diseases!<br>
+<img id="condutas" align="left" src="icons/Icon_Conds60.png"><b>Condutas em Emergência</b><br>Your emergency shifts will be calmer now. Fast and reliable information on more than 30 serious diseases!
 <br>
 <br>
 
@@ -54,8 +54,7 @@ Most of the applications for the iOS platform were built in Objective-C, using a
 [Back to Top](#top)
 ----
 
-<h3 id="dengue">Dengue</h3>
-<img align="left" src="icons/Icon_Dengue_60.png">Diagnostic and therapeutic management guide for adults and children prepared by the Ministry of Health.
+<img id="dengue" align="left" src="icons/Icon_Dengue_60.png"><b>Dengue</b><br>Diagnostic and therapeutic management guide for adults and children prepared by the Ministry of Health.
 <br>
 <br>
 
