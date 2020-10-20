@@ -1,5 +1,6 @@
 <h1 id="top">Medtouch Applications</h2>
 ###### These are the applications built and deployed during my work at [Medtouch](https://www.medtouch.com.br).  During these over 8 years, I've built over 10 apps for the [iOS Platform](#appios) and 5 for the [Android Platform](#appandroid) and the respective app updates for both platforms.
+
 ###### It is worth mentioning the "timing", i.e., some features that with the current tools and frameworks are trivial to do, was done/built "manually" and I'll present this as it was at that time (innovative, difficult to accomplish, etc).
 
 ### iOS:
@@ -17,8 +18,7 @@ Most of the applications for the iOS platform were built in Objective-C, using a
 [Back to Top](#top)
 ----
 
-![Code Blue](icons/Icon_CodeBlue_60.png "Code Blue - iOS")<h3 id="codeblue">Code Blue</h3>
-<span>The most complete application of Intensive Care Medicine in Brazil, developed by specialist doctors qualified by AMIB!</span>
+<img  id="codeblue" align="left" src="icons/Icon_CodeBlue_60.png"><b>Code Blue</b>The most complete application of Intensive Care Medicine in Brazil, developed by specialist doctors qualified by AMIB!
 
 <br>
 <br>
