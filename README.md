@@ -20,7 +20,6 @@ Most of the applications for the iOS platform were built in Objective-C, using a
 ----
 
 <img id="codeblue" align="left" src="icons/Icon_CodeBlue_60.png"><b>Code Blue</b><br>The most complete application of Intensive Care Medicine in Brazil, developed by specialist doctors qualified by AMIB!
-
 <br>
 <br>
 
@@ -40,8 +39,7 @@ Most of the applications for the iOS platform were built in Objective-C, using a
 [Back to Top](#top)
 ----
 
-<h3 id="condutas">Condutas em Emergência</h3>
-<img align="left" src="icons/Icon_Conds60.png">Your emergency shifts will be calmer now. Fast and reliable information on more than 30 serious diseases!<br>
+<img id="condutas" align="left" src="icons/Icon_Conds60.png"><b>Condutas em Emergência</b><br>Your emergency shifts will be calmer now. Fast and reliable information on more than 30 serious diseases!<br>
 <br>
 <br>
 
