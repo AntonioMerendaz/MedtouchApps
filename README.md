@@ -1,8 +1,8 @@
 <h1 id="top">Medtouch Applications</h2>
 
-###### These are the applications built and deployed during my work at [Medtouch](https://www.medtouch.com.br).  During these over 8 years, I've built over 10 apps for the [iOS Platform](#appios) and 5 for the [Android Platform](#appandroid) and the respective app updates for both platforms.
+##### These are the applications built and deployed during my work at [Medtouch](https://www.medtouch.com.br).  During these over 8 years, I've built over 10 apps for the [iOS Platform](#appios) and 5 for the [Android Platform](#appandroid) and the respective app updates for both platforms.
 
-###### It is worth mentioning the "timing", i.e., some features that with the current tools and frameworks are trivial to do, was done/built "manually" and I'll present this as it was at that time (innovative, difficult to accomplish, etc).
+##### It is worth mentioning the "timing", i.e., some features that with the current tools and frameworks are trivial to do, was done/built "manually" and I'll present this as it was at that time (innovative, difficult to accomplish, etc).
 
 ### iOS:
 
@@ -69,8 +69,7 @@ Most of the applications for the iOS platform were built in Objective-C, using a
 [Back to Top](#top)
 ----
 
-<h3 id="doccalc">DocCalc</h3>
-<img align="left" src="icons/Icon_DocCalc_60.png">More than 300 medical calculations, with algorithms, scores, unit converters, classifications, formulas, diagnostic and prognostic criteria, to assist in your medical practice.
+<img id="doccalc" align="left" src="icons/Icon_DocCalc_60.png"><b>DocCalc</b><br>More than 300 medical calculations, with algorithms, scores, unit converters, classifications, formulas, diagnostic and prognostic criteria, to assist in your medical practice.
 <br>
 <br>
 
@@ -85,8 +84,7 @@ Most of the applications for the iOS platform were built in Objective-C, using a
 [Back to Top](#top)
 ----
 
-<h3 id="draureo">Dr Aureo</h3>
-<img align="left" src="icons/Icon_DrAureo_60.png">Application for Dr. Aureo's patients. Various information about your doctor. Tips on health and medical examinations, calculations (BMI, ideal weight, etc.) and recommendations from professionals in other specialties.
+<img id="draureo" align="left" src="icons/Icon_DrAureo_60.png"><b>Dr Aureo</b><br>Application for Dr. Aureo's patients. Various information about your doctor. Tips on health and medical examinations, calculations (BMI, ideal weight, etc.) and recommendations from professionals in other specialties.
 <br>
 <br>
 
@@ -101,8 +99,7 @@ Most of the applications for the iOS platform were built in Objective-C, using a
 [Back to Top](#top)
 ----
 
-<h3 id="drogas">Drogas em Emergência & CTI</h3>
-<img align="left" src="icons/Icon_Drogas_60.png">A quick reference guide with the main drugs used in emergency and intensive care, made by physicians who work "on the front line"!
+<img id="drogas" align="left" src="icons/Icon_Drogas_60.png"><b>Drogas em Emergência & CTI</b><br>A quick reference guide with the main drugs used in emergency and intensive care, made by physicians who work "on the front line"!
 <br>
 <br>
 
@@ -118,8 +115,7 @@ Most of the applications for the iOS platform were built in Objective-C, using a
 [Back to Top](#top)
 ----
 
-<h3 id="epons">Epônimos</h3>
-<img align="left" src="icons/Icon_Epons-60.png">THE WORLD'S MOST COMPLETE APP IN THE GENDER! More than 4000 terms in Medicine, Dentistry, Nutrition, Physiotherapy and Nursing!!!
+<img id="epons" align="left" src="icons/Icon_Epons-60.png"><b>Epônimos</b><br>THE WORLD'S MOST COMPLETE APP IN THE GENDER! More than 4000 terms in Medicine, Dentistry, Nutrition, Physiotherapy and Nursing!
 <br>
 <br>
 
@@ -134,8 +130,7 @@ Most of the applications for the iOS platform were built in Objective-C, using a
 [Back to Top](#top)
 ----
 
-<h3 id="gravlact">Gravidez e Lactação</h3>
-<img align="left" src="icons/Icon_GravLact_60.png">A reliable guide containing Conducts, Calculators and Drug Guide for the management of pregnant and lactating women, in a FRIENDLY INTERFACE!
+<img id="gravlact" align="left" src="icons/Icon_GravLact_60.png"><b>Gravidez e Lactação</b><br>A reliable guide containing Conducts, Calculators and Drug Guide for the management of pregnant and lactating women, in a FRIENDLY INTERFACE!
 <br>
 <br>
 
@@ -150,8 +145,7 @@ Most of the applications for the iOS platform were built in Objective-C, using a
 [Back to Top](#top)
 ----
 
-<h3 id="guiaatms">Guia de Antimicrobianos</h3>
-<img align="left" src="icons/Icon_GuiaATMs-60.png">Therapeutic indications for more than 500 infections, in adults and children; Surgical prophylaxis; Pharmacological Guide; 180 Most common bacteria, calculators, etc.
+<img id="guiaatms" align="left" src="icons/Icon_GuiaATMs-60.png"><b>Guia de Antimicrobianos</b><br>Therapeutic indications for more than 500 infections, in adults and children; Surgical prophylaxis; Pharmacological Guide; 180 Most common bacteria, calculators, etc.
 <br>
 <br>
 
@@ -166,8 +160,7 @@ Most of the applications for the iOS platform were built in Objective-C, using a
 [Back to Top](#top)
 ----
 
-<h3 id="prescs">Prescrições Médicas</h3>
-<img align="left" src="icons/Icon_Presc_60.png">A true EVIDENCE-BASED medical prescriptions guide, written by SPECIALIST DOCTORS!
+<img id="prescs" align="left" src="icons/Icon_Presc_60.png"><b>Prescrições Médicas</b><br>A true EVIDENCE-BASED medical prescriptions guide, written by SPECIALIST DOCTORS!
 <br>
 <br>
 
@@ -188,8 +181,7 @@ These applications were done in HTML/CSS/JS/jQuery/Bootstrap and using cross-pla
 [Back to Top](#top)
 ----
 
-<h3 id="codeblueA">Code Blue</h3>
-<img align="left" src="icons/Icon_CodeBlue_60.png">The most complete application of Intensive Care Medicine in Brazil, developed by doctors qualified by AMIB!
+<img id="codeblueA" align="left" src="icons/Icon_CodeBlue_60.png"><b>Code Blue</b><br>The most complete application of Intensive Care Medicine in Brazil, developed by doctors qualified by AMIB!
 <br>
 <br>
 
@@ -206,8 +198,7 @@ These applications were done in HTML/CSS/JS/jQuery/Bootstrap and using cross-pla
 [Back to Top](#top)
 ----
 
-<h3 id="dengueA">Dengue</h3>
-<img align="left" src="icons/Icon_Dengue_60.png">Diagnostic and therapeutic management guide for adults and children prepared by the Ministry of Health.
+<img id="dengueA" align="left" src="icons/Icon_Dengue_60.png"><b>Dengue</b><br>Diagnostic and therapeutic management guide for adults and children prepared by the Ministry of Health.
 <br>
 <br>
 
@@ -222,8 +213,7 @@ These applications were done in HTML/CSS/JS/jQuery/Bootstrap and using cross-pla
 [Back to Top](#top)
 ----
 
-<h3 id="doccalcA">DocCalc</h3>
-<img align="left" src="icons/Icon_DocCalc_60.png">More than 300 medical calculations, with algorithms, scores, unit converters, classifications, formulas, diagnostic and prognostic criteria, to assist in your medical practice.
+<img id="doccalcA" align="left" src="icons/Icon_DocCalc_60.png"><b>DocCalc</b><br>More than 300 medical calculations, with algorithms, scores, unit converters, classifications, formulas, diagnostic and prognostic criteria, to assist in your medical practice.
 <br>
 <br>
 
@@ -238,8 +228,7 @@ These applications were done in HTML/CSS/JS/jQuery/Bootstrap and using cross-pla
 [Back to Top](#top)
 ----
 
-<h3 id="draureoA">Dr Aureo</h3>
-<img align="left" src="icons/Icon_DrAureo_60.png">Application for Dr. Aureo's patients. Various information about your doctor. Tips on health and medical examinations, calculations (BMI, ideal weight, etc.) and recommendations from professionals in other specialties.
+<img id="draureoA" align="left" src="icons/Icon_DrAureo_60.png"><b>Dr Aureo</b><br>Application for Dr. Aureo's patients. Various information about your doctor. Tips on health and medical examinations, calculations (BMI, ideal weight, etc.) and recommendations from professionals in other specialties.
 <br>
 <br>
 
@@ -254,8 +243,7 @@ These applications were done in HTML/CSS/JS/jQuery/Bootstrap and using cross-pla
 [Back to Top](#top)
 ----
 
-<h3 id="drogasA">Drogas em Emergência & CTI(4 Idioms: PT, EN, ES, CH)</h3>
-<img align="left" src="icons/Icon_Drogas_60.png">A quick reference guide with the main drugs used in emergency and intensive care, made by physicians who work "on the front line"!
+<img id="drogasA" align="left" src="icons/Icon_Drogas_60.png"><b>Drogas em Emergência & CTI(4 Idioms: PT, EN, ES, CH)</b><br>A quick reference guide with the main drugs used in emergency and intensive care, made by physicians who work "on the front line"!
 <br>
 <br>
 
@@ -276,8 +264,7 @@ The app can be seen [here](https://tinder-clone-c1a91.web.app)
 [Back to Top](#top)
 ----
 
-<h3 id="prescs">Prescrições Médicas</h3>
-<img align="left" src="icons/Icon_Presc_60.png">A true EVIDENCE-BASED medical prescriptions guide, written by SPECIALIST DOCTORS!
+<img id="prescsA" align="left" src="icons/Icon_Presc_60.png"><b>Prescrições Médicas</b><br>A true EVIDENCE-BASED medical prescriptions guide, written by SPECIALIST DOCTORS!
 <br>
 <br>
 
