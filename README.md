@@ -34,9 +34,8 @@ Most of the applications for the iOS platform were built in Objective-C, using a
 ![Calcs2Nota](CodeBlue/gifs/Calcs2Nota.gif "Calcs2Nota")&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Nota](CodeBlue/gifs/Notas.gif "Nota")
 
 ### Improvements:
-1. Create the other functionalities/screens of the app;
-2. Put each and every one button to work properly;
-3. Authentication for the users in Firebase;
+1. Most of the app's content is in html format, accessed through property lists with title and file name. A suggestion to improve the performance and security of the app is to put these files in a real database, with all its access control and security features;
+2. In addition, greater attention should be paid to UI/UX;
 
 [Back to Top](#top)
 ----
@@ -45,9 +44,12 @@ Most of the applications for the iOS platform were built in Objective-C, using a
 <br>
 
 ### Features: 
-1.  Built using Objective-C language;
-2. A ***Header/NavBar*** with three icons;
-3. A body with a stack of cards, with the functionality of swipe right or left;
+1. Built using Objective-C language;
+2. For this application, all the content was already divided into hundreds of PDF files, so to increase productivity, it was decided to use these files wrapped in a WebView;
+3. Traditional app, consisting of a TabViewController in which each tab is a TableView with its respective Detail View Controller;
+4. In the case of the Calculators Tab, a UISegmentedControl was used to switch the display of calculators between "All calculations" and "By Category". In the latter case, the customized index was chosen, with the initial letters of each category;
+5. Another interesting feature of this app is the possibility to save conducts as favorites;
+6. 
 
 ### Improvements:
 1. Create the other functionalities/screens of the app;
