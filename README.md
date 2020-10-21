@@ -31,7 +31,7 @@ Most of the applications for the iOS platform were built in Objective-C, using a
 4. 88 Calculators, 201 Drugs and 119 Trials(Article summaries) built using HTML/CSS/Javascript and wrapped in a webview;<br>
 ![Calcs](CodeBlue/gifs/Calcs1.gif "Calcs")      ![Trials](CodeBlue/gifs/Trials.gif "Trials")
 5. A Note Taking tab, where you can save your simple notes for future consultation;<br>
-![Calcs2Nota](CodeBlue/gifs/Calcs2Nota.gif "Calcs2Nota").    ![Nota](CodeBlue/gifs/Notas.gif "Nota")
+![Calcs2Nota](CodeBlue/gifs/Calcs2Nota.gif "Calcs2Nota")&nbsp;&nbsp;&nbsp;    ![Nota](CodeBlue/gifs/Notas.gif "Nota")
 
 ### Improvements:
 1. Create the other functionalities/screens of the app;
