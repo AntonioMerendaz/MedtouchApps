@@ -34,7 +34,7 @@ Most of the applications for the iOS platform were built in Objective-C, using a
 ![Calcs2Nota](CodeBlue/gifs/Calcs2Nota.gif "Calcs2Nota")&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Nota](CodeBlue/gifs/Notas.gif "Nota")
 
 ### Improvements:
-1. Most of the app's content is in html format, accessed through property lists with title and file name. A suggestion to improve the performance and security of the app is to put these files in a real database, with all its access control and security features;
+1. Most of the app's content is in html format, accessed through property lists with title and file name. A suggestion to improve the performance and security of the app is to put these files in a real database, with all its access control and security features and generate each html file at time of use;
 2. In addition, greater attention should be paid to UI/UX;
 
 [Back to Top](#top)
@@ -53,6 +53,7 @@ Most of the applications for the iOS platform were built in Objective-C, using a
 
 ### Improvements:
 1. Create the other functionalities/screens of the app;
+2. As all the content was in pdfs, and used as so, a suggestion to improve the performance and security of the app is to put their content in a database, with all its access control and security features and generate each html file at time of use;
 
 [Back to Top](#top)
 ----
