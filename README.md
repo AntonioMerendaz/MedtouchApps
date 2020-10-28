@@ -211,7 +211,7 @@ These applications were done in HTML/CSS/JS/jQuery/Bootstrap and using cross-pla
 [![Under Construction](AnimGifs/UnderConstructionBelow.gif "Under Construction")](#underconstruction) 
 <br>
 ### Features: 
-1. Created a database in Firebase and connected to the app, with the names and images to be shown on the cards;
+1. Built using Html, CSS, Bootstrap, JS, jQuery and using Apache Cordova to wrap in native code;
 2. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat;
 3. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat;
 
@@ -230,7 +230,7 @@ These applications were done in HTML/CSS/JS/jQuery/Bootstrap and using cross-pla
 [![Under Construction](AnimGifs/UnderConstructionBelow.gif "Under Construction")](#underconstruction) 
 <br>
 ### Features: 
-1.  Built in Html/CSS/JS, using, firstly, Intel XDK, then Apache Cordova to wrap in native code;
+1. Built in Html/CSS/JS, using, firstly, Intel XDK, then Apache Cordova to wrap in native code;
 2. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat;
 3. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat;
 
@@ -247,7 +247,7 @@ These applications were done in HTML/CSS/JS/jQuery/Bootstrap and using cross-pla
 [![Under Construction](AnimGifs/UnderConstructionBelow.gif "Under Construction")](#underconstruction) 
 <br>
 ### Features: 
-1.  Built in Html/CSS/JS, using, firstly, Intel XDK, then Apache Cordova to wrap in native code;
+1. Built in Html/CSS/JS, using, firstly, Intel XDK, then Apache Cordova to wrap in native code;
 2. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat;
 3. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat;
 
@@ -264,7 +264,7 @@ These applications were done in HTML/CSS/JS/jQuery/Bootstrap and using cross-pla
 [![Under Construction](AnimGifs/UnderConstructionBelow.gif "Under Construction")](#underconstruction) 
 <br>
 ### Features: 
-1.  Built in Html/CSS/JS, using, firstly, Intel XDK, then Apache Cordova to wrap in native code;
+1. Built using Html, CSS, Bootstrap, JS, jQuery and using Apache Cordova to wrap in native code;
 2. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat;
 3. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat;
 
@@ -281,7 +281,7 @@ These applications were done in HTML/CSS/JS/jQuery/Bootstrap and using cross-pla
 [![Under Construction](AnimGifs/UnderConstructionBelow.gif "Under Construction")](#underconstruction) 
 <br>
 ### Features: 
-1.  Built in Html/CSS/JS, using, firstly, Intel XDK, then Apache Cordova to wrap in native code;
+1. Built using Html, CSS, Bootstrap, JS, jQuery and using Apache Cordova to wrap in native code;
 2. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat;
 3. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat;
 
@@ -304,7 +304,7 @@ The app can be seen [here](https://tinder-clone-c1a91.web.app)
 [![Under Construction](AnimGifs/UnderConstructionBelow.gif "Under Construction")](#underconstruction) 
 <br>
 ### Features: 
-1.  Built in Html/CSS/JS, using, firstly, Intel XDK, then Apache Cordova to wrap in native code;
+1. Built in Html/CSS/JS, using, firstly, Intel XDK, then Apache Cordova to wrap in native code;
 2. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat;
 3. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat;
 
