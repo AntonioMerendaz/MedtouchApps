@@ -4,14 +4,11 @@
 
 ##### It is worth mentioning the "timing", i.e., some features that with the current tools and frameworks are trivial to do, was done/built "manually" and I'll present this as it was at that time (innovative, difficult to accomplish, etc).
 
-### iOS:
-
-[![AppStore](icons/apple-badge-black.png "AppStore")](https://tinyurl.com/y4qs4c9l)<br>
+### iOS: &nbsp;&nbsp;&nbsp; [![AppStore](icons/apple-badge-black.png "AppStore")](https://tinyurl.com/y4qs4c9l)<br>
 
 [![Code Blue](icons/Icon_CodeBlue_60.png "Code Blue - iOS")](#codeblue)  [![Condutas](icons/Icon_Conds60.png "Condutas em Emergência")](#condutas)  [![Dengue](icons/Icon_Dengue_60.png "Dengue - iOS")](#dengue)  [![DocCalc](icons/Icon_DocCalc_60.png "DocCalc - iOS")](#doccalc)  [![DrAureo](icons/Icon_DrAureo_60.png "Dr Aureo - iOS")](#draureo)  [![Drogas](icons/Icon_Drogas_60.png "Drogas em Emergência & CTI - iOS")](#drogas)  [![Eponimos](icons/Icon_Epons-60.png "Epônimos")](#epons)  [![GravLact](icons/Icon_GravLact_60.png "Gravidez e Lactação")](#gravlact)  [![GuiaATMs](icons/Icon_GuiaATMs-60.png "Guia de Antimicrobianos")](#guiaatms)  [![PrescMed](icons/Icon_Presc_60.png "Prescrições Médicas")](#prescs)
 
-### Android:
-[![Google Play](icons/google-play-badge.png "Google Play")](https://shorturl.at/fyFMQ)<br>
+### Android: &nbsp;&nbsp;&nbsp; [![Google Play](icons/google-play-badge.png "Google Play")](https://shorturl.at/fyFMQ)<br>
 
 [![Code Blue](icons/Icon_CodeBlue_60.png "Code Blue - Android")](#codeblueA)  [![Dengue](icons/Icon_Dengue_60.png "Dengue - Android")](#dengueA)  [![DocCalc](icons/Icon_DocCalc_60.png "DocCalc - Android")](#doccalcA)  [![DrAureo](icons/Icon_DrAureo_60.png "Dr Aureo - Android")](#draureoA)  [![Drogas](icons/Icon_Drogas_60.png "Drogas em Emergência & CTI - Android")](#drogasA)
 
