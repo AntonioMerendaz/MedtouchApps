@@ -42,14 +42,14 @@ Most of the applications for the iOS platform were built in Objective-C, using a
 
 <img id="condutas" align="left" src="icons/Icon_Conds60.png"><b>Condutas em Emergências</b><br>Your emergency shifts will be calmer now. Fast and reliable information on more than 30 serious diseases!
 <br>
-
-### Features: 
+[![Under Construction](AnimGifs/UnderConstructionBelow.gif "Under Construction")](#underconstruction) 
+<br>
+### Features:
 1. Built using Objective-C language;
 2. For this application, all the content was already divided into hundreds of PDF files, so to increase productivity, it was decided to use these files wrapped in a WebView;
 3. Traditional app, consisting of a TabViewController in which each tab is a TableView with its respective Detail View Controller;
 4. In the case of the Calculators Tab, a UISegmentedControl was used to switch the display of calculators between "All calculations" and "By Category". In the latter case, the customized index was chosen, with the initial letters of each category;
 5. Another interesting feature of this app is the possibility to save conducts as favorites;
-6. 
 
 ### Improvements:
 1. Create the other functionalities/screens of the app;
@@ -61,10 +61,10 @@ Most of the applications for the iOS platform were built in Objective-C, using a
 <img id="dengue" align="left" src="icons/Icon_Dengue_60.png"><b>Dengue</b><br>Diagnostic and therapeutic management guide for adults and children prepared by the Ministry of Health.
 <br>
 
-### Features: 
-1.  Built using Objective-C language;
-2. A ***Header/NavBar*** with three icons;
-3. A body with a stack of cards, with the functionality of swipe right or left;
+### Features:
+1. Built using Objective-C language;
+2. ;
+3. ;
 
 ### Improvements:
 1. Create the other functionalities/screens of the app;
