@@ -48,7 +48,7 @@ Most of the applications for the iOS platform were built in Objective-C, using a
 2. For this application, all the content was already divided into hundreds of PDF files, so to increase productivity, it was decided to use these files wrapped in a WebView;
 3. Traditional app, consisting of a TabViewController in which each tab is a TableView with its respective Detail View Controller;<br>
 ![Condutas](Condutas/gifs/Condutas.gif "Condutas")
-4. In the case of the Calculators Tab, a UISegmentedControl was used to switch the display of calculators between "All calculations" and "By Category". In the latter case, the customized index was chosen, with the initial letters of each category;<br>
+4. In the case of the Calculators Tab, a UISegmentedControl was used to switch the display of calculators between "All calculations" and "By Category". In this case, the customized index was chosen, with the initial letters of each category;<br>
 ![Calcs](Condutas/gifs/Calcs.gif "Calcs")
 5. A great feature implemented in the app, to serve a large number of users who have requested this is the possibility to take notes;<br>
 ![CondsCalcsNotas](Condutas/gifs/CondsCalcsNotas.gif "CondsCalcsNotas")&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Notas](Condutas/gifs/Notas.gif "Notas")
