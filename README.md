@@ -12,7 +12,7 @@
 
 ### Android: 
 
-&nbsp; [![Google Play](icons/google-play-badge.png "Google Play")](https://shorturl.at/fyFMQ)<br>
+ [![Google Play](icons/google-play-badge.png "Google Play")](https://shorturl.at/fyFMQ)<br>
 
 [![Code Blue](icons/Icon_CodeBlue_60.png "Code Blue - Android")](#codeblueA)  [![Dengue](icons/Icon_Dengue_60.png "Dengue - Android")](#dengueA)  [![DocCalc](icons/Icon_DocCalc_60.png "DocCalc - Android")](#doccalcA)  [![DrAureo](icons/Icon_DrAureo_60.png "Dr Aureo - Android")](#draureoA)  [![Drogas](icons/Icon_Drogas_60.png "Drogas em Emergência & CTI - Android")](#drogasA)
 
