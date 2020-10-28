@@ -42,6 +42,8 @@ Most of the applications for the iOS platform were built in Objective-C, using a
 
 <img id="condutas" align="left" src="icons/Icon_Conds60.png"><b>Condutas em Emergências</b><br>Your emergency shifts will be calmer now. Fast and reliable information on more than 30 serious diseases!
 <br>
+<br>
+<br>
 [![Under Construction](AnimGifs/UnderConstructionBelow.gif "Under Construction")](#underconstruction) 
 <br>
 ### Features:
