@@ -49,8 +49,11 @@ Most of the applications for the iOS platform were built in Objective-C, using a
 3. Traditional app, consisting of a TabViewController in which each tab is a TableView with its respective Detail View Controller;
 4. In the case of the Calculators Tab, a UISegmentedControl was used to switch the display of calculators between "All calculations" and "By Category". In the latter case, the customized index was chosen, with the initial letters of each category;<br>
 ![Calcs](Condutas/gifs/Calcs.gif "Calcs")
-5. Another interesting feature of this app is the possibility to save conducts as favorites;<br>
+5. A great feature implemented in the app, to serve a large number of users who have requested this is the possibility to take notes;<br>
+![CondsCalcsNotas](Condutas/gifs/CondsCalcsNotas.gif "CondsCalcsNotas")&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Notas](Condutas/gifs/Notas.gif "Notas")
+6. Another interesting feature of this app is the possibility to save conducts as favorites;<br>
 ![CondutasFav](Condutas/gifs/CondutasFav.gif "CondutasFav")&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Favs](Condutas/gifs/Favs.gif "Favs")
+
 
 ### Improvements:
 1. As all the content was in pdfs, and used as so, a suggestion to improve the performance and security of the app is to put their content in a database, with all its access control and security features and generate each html file at time of use;
