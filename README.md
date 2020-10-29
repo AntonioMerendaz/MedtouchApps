@@ -40,6 +40,7 @@ Most of the applications for the iOS platform were built in Objective-C, using a
 ### Improvements:
 1. Most of the app's content is in html format, accessed through property lists with title and file name. A suggestion to improve the performance and security of the app is to put these files in a real database, with all its access control and security features and generate each html file at time of use;
 2. In addition, greater attention should be paid to UI/UX;
+3. Improvements on Autolayout implementations must be done;
 
 [Back to Top](#top)
 ----
@@ -62,7 +63,10 @@ Most of the applications for the iOS platform were built in Objective-C, using a
 
 ### Improvements:
 1. As all the content was in pdfs, and used as so, a suggestion to improve the performance and security of the app is to put their content in a database, with all its access control and security features and generate each html file at time of use;
-2. Here, again, more attention should be paid to UI/UX;
+2. Think in transitioning the code to Swift;
+3. Change the architecture MVC to MVVM and refactor the code to make it easy to build Tests;
+4. Here, again, more attention should be paid to UI/UX;
+5. Improvements on Autolayout implementations must be done;
 
 [Back to Top](#top)
 ----
@@ -73,13 +77,16 @@ Most of the applications for the iOS platform were built in Objective-C, using a
 [![Under Construction](AnimGifs/UnderConstructionBelow.gif "Under Construction")](#underconstruction) 
 <br>
 ### Features:
-1. Built using Objective-C language;
-2. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat;
-3. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat;
+1. Built using Objective-C language and updated to Swift;
+2. The app consists of a TabViewController with 5 tabs, where the first four are webviews with the Html/CSS/Bootstrap/JS/jQuery app on it and the same feature of the app **Code Blue** (to create a list with the titles in the text, for quick access) was done, but in this case it was built with Html/CSS/Bootstrap/JS/jQuery resources;
+3. The fifth tab ("share") of the app consists in a TableView Object where each row provide a different link to the company on internet, like social networks (Twitter or Facebook), the Developer's website, to an online registration form or to send an email to the company and in the upper right there is a button that opens a View with the other apps of the developer;
 
 ### Improvements:
-1. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat;
-2. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat;
+1. Change the architecture MVC to MVVM and refactor the code to make it easy to build Tests;
+2. Here, again, some stuff to do in UI/UX;
+3. Improvements on Autolayout implementations must be done;
+4. Change the architecture MVC to MVVM and refactor the code to make it easy to build Tests;
+5. One radical change suggested by some executives of the developer is to switch to an cross-platform approach, using the same base of the Android App, that way the resources would be better used;
 
 [Back to Top](#top)
 ----
@@ -95,8 +102,12 @@ Most of the applications for the iOS platform were built in Objective-C, using a
 3. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat;
 
 ### Improvements:
-1. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat;
-2. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat;
+1. All the content is in html files, a suggestion to improve the performance and security of the app is to put their content in a database, with all its access control and security features and generate each html file at time of use;
+2. Think in transitioning the code to Swift;
+3. Here, again, more attention should be paid to UI/UX;
+4. Improvements on Autolayout implementations must be done;
+5. Change the architecture MVC to MVVM and refactor the code to make it easy to build Tests;
+6. One radical change suggested by some executives of the developer is to switch to an cross-platform approach, using the same base of the Android App, that way the resources would be better used;
 
 [Back to Top](#top)
 ----
@@ -112,8 +123,11 @@ Most of the applications for the iOS platform were built in Objective-C, using a
 3. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat;
 
 ### Improvements:
-1. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat;
-2. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat;
+1. Think in transitioning the code to Swift;
+2. Here, again, more attention should be paid to UI/UX;
+3. Improvements on Autolayout implementations must be done;
+4. Change the architecture MVC to MVVM and refactor the code to make it easy to build Tests;
+5. One radical change suggested by some executives of the developer is to switch to an cross-platform approach, using the same base of the Android App, that way the resources would be better used;
 
 [Back to Top](#top)
 ----
@@ -130,8 +144,11 @@ Most of the applications for the iOS platform were built in Objective-C, using a
 4. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat;
 
 ### Improvements:
-1. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat;
-2. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat;
+1. All the content is in .plist files, a suggestion to improve the performance and security of the app is to put their content in a database, with all its access control and security features;
+2. Think in transitioning the code to Swift;
+3. Here, again, more attention should be paid to UI/UX;
+4. Improvements on Autolayout implementations must be done;
+5. Change the architecture MVC to MVVM and refactor the code to make it easy to build Tests;
 
 [Back to Top](#top)
 ----
@@ -147,8 +164,10 @@ Most of the applications for the iOS platform were built in Objective-C, using a
 3. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat;
 
 ### Improvements:
-1. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat;
-2. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat;
+1. Think in transitioning the code to Swift;
+2. Here, again, more attention should be paid to UI/UX;
+3. Improvements on Autolayout implementations must be done;
+4. Change the architecture MVC to MVVM and refactor the code to make it easy to build Tests;
 
 [Back to Top](#top)
 ----
@@ -164,8 +183,10 @@ Most of the applications for the iOS platform were built in Objective-C, using a
 3. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat;
 
 ### Improvements:
-1. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat;
-2. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat;
+1. Think in transitioning the code to Swift;
+2. Here, again, more attention should be paid to UI/UX;
+3. Improvements on Autolayout implementations must be done;
+4. Change the architecture MVC to MVVM and refactor the code to make it easy to build Tests;
 
 [Back to Top](#top)
 ----
@@ -181,8 +202,10 @@ Most of the applications for the iOS platform were built in Objective-C, using a
 3. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat;
 
 ### Improvements:
-1. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat;
-2. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat;
+1. Think in transitioning the code to Swift;
+2. Here, again, more attention should be paid to UI/UX;
+3. Improvements on Autolayout implementations must be done;
+4. Change the architecture MVC to MVVM and refactor the code to make it easy to build Tests;
 
 [Back to Top](#top)
 ----
@@ -198,8 +221,11 @@ Most of the applications for the iOS platform were built in Objective-C, using a
 3. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat;
 
 ### Improvements:
-1. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat;
-2. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat;
+1. Think in transitioning the code to Swift;
+2. Here, again, more attention should be paid to UI/UX;
+3. Improvements on Autolayout implementations must be done;
+4. Change the architecture MVC to MVVM and refactor the code to make it easy to build Tests;
+5. One radical change suggested by the executives guys is to switch to an cross-platform approach, using the same base of the Android App, that way the resources would be better used;
 
 [Back to Top](#top)
 ----
@@ -240,8 +266,8 @@ These applications were done in HTML/CSS/JS/jQuery/Bootstrap and using cross-pla
 3. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat;
 
 ### Improvements:
-1. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat;
-2. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat;
+1. Make the necessary adaptations to integrate the iOS and Android versions in a single app;
+2. Here, again, more attention should be paid to UI/UX;
 
 [Back to Top](#top)
 ----
@@ -274,8 +300,8 @@ These applications were done in HTML/CSS/JS/jQuery/Bootstrap and using cross-pla
 3. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat;
 
 ### Improvements:
-1. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat;
-2. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat;
+1. Make the necessary adaptations to integrate the iOS and Android versions in a single app;
+2. Here, again, more attention should be paid to UI/UX;
 
 [Back to Top](#top)
 ----
@@ -291,8 +317,8 @@ These applications were done in HTML/CSS/JS/jQuery/Bootstrap and using cross-pla
 3. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat;
 
 ### Improvements:
-1. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat;
-2. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat;
+1. Make the necessary adaptations to integrate the iOS and Android versions in a single app;
+2. Here, again, more attention should be paid to UI/UX;
 
 [Back to Top](#top)
 ----
@@ -314,8 +340,8 @@ The app can be seen [here](https://tinder-clone-c1a91.web.app)
 3. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat;
 
 ### Improvements:
-1. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat;
-2. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat;
+1. Make the necessary adaptations to integrate the iOS and Android versions in a single app;
+2. Here, again, more attention should be paid to UI/UX;
 
 [Back to Top](#top)
 ----
