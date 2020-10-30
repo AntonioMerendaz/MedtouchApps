@@ -71,11 +71,9 @@ Most of the applications for the iOS platform were built in Objective-C, using a
 [Back to Top](#top)
 ----
 
-<img id="dengue" align="left" src="icons/Icon_Dengue_60.png"><b>Dengue</b><br>Diagnostic and therapeutic management guide for adults and children prepared by the Ministry of Health.
+<img id="dengue" align="left" src="icons/Icon_Dengue_60.png"><b>Dengue</b><br>Diagnostic and therapeutic management guide for adults and children prepared by the Ministry of Health. 
 <br>
-<br>
-[![Under Construction](AnimGifs/UnderConstructionBelow.gif "Under Construction")](#underconstruction) 
-<br>
+
 ### Features:
 1. Built using Objective-C language and updated to Swift;
 2. The app consists of a TabViewController with 5 tabs, where the first four are webviews with the Html/CSS/Bootstrap/JS/jQuery app on it and the same feature of the app **Code Blue** (to create a list with the titles in the text, for quick access) was done, but in this case it was built with Html/CSS/Bootstrap/JS/jQuery resources;<br>
