@@ -93,13 +93,11 @@ Most of the applications for the iOS platform were built in Objective-C, using a
 
 <img id="doccalc" align="left" src="icons/Icon_DocCalc_60.png"><b>DocCalc</b><br>More than 300 medical calculations, with algorithms, scores, unit converters, classifications, formulas, diagnostic and prognostic criteria, to assist in your medical practice.
 <br>
-<br>
-[![Under Construction](AnimGifs/UnderConstructionBelow.gif "Under Construction")](#underconstruction) 
-<br>
+
 ### Features: 
 1. Built using Objective-C language;
-2. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat;
-3. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat;
+2. The app is organized in Tabs, where all the data (lists) for the TableViews is in a plist, the tabs are Cálculos, Categorias, Conversores, Notas e Sobre;
+3. All the calculators are built with Html/CSS/JS/Bootstrap/jQuery and wrapped in a WebView;
 
 ### Improvements:
 1. All the content is in html files, a suggestion to improve the performance and security of the app is to put their content in a database, with all its access control and security features and generate each html file at time of use;
