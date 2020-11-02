@@ -97,7 +97,8 @@ Most of the applications for the iOS platform were built in Objective-C, using a
 ### Features: 
 1. Built using Objective-C language;
 2. The app is organized in Tabs, where all the data (lists) for the TableViews is in a plist, the tabs are Cálculos, Categorias, Conversores, Notas e Sobre;
-3. All the calculators are built with Html/CSS/JS/Bootstrap/jQuery and wrapped in a WebView;
+3. All the calculators are built with Html/CSS/JS/Bootstrap/jQuery and wrapped in a WebView;<br>
+![DocCalc](DocCalc/gifs/DocCalc.gif "DocCalc")
 
 ### Improvements:
 1. All the content is in html files, a suggestion to improve the performance and security of the app is to put their content in a database, with all its access control and security features and generate each html file at time of use;
