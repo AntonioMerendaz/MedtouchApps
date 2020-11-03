@@ -118,15 +118,10 @@ Most of the applications for the iOS platform were built in Objective-C, using a
 <br>
 ### Features: 
 1. Built in Html/CSS/JS, using Apache Cordova to wrap in native code;
-2. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat;
-3. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat;
+2. Using Bootstrap's UI / UX features, in conjunction with jQuery and JS, the content of the app was organized in 5 Tabs: "Dr Aureo", "Dicas", "Recomendo", "Viver!" and "Alô";
 
 ### Improvements:
-1. Think in transitioning the code to Swift;
-2. Here, again, more attention should be paid to UI/UX;
-3. Improvements on Autolayout implementations must be done;
-4. Change the architecture MVC to MVVM and refactor the code to make it easy to build Tests;
-5. One radical change suggested by some executives of the developer is to switch to an cross-platform approach, using the same base of the Android App, that way the resources would be better used;
+1. Here, again, more attention must be paid to UI/UX;
 
 [Back to Top](#top)
 ----
