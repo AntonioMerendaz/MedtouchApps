@@ -113,12 +113,11 @@ Most of the applications for the iOS platform were built in Objective-C, using a
 
 <img id="draureo" align="left" src="icons/Icon_DrAureo_60.png"><b>Dr Aureo</b><br>Application for Dr. Aureo's patients. Various information about your doctor. Tips on health and medical examinations, calculations (BMI, ideal weight, etc.) and recommendations from professionals in other specialties.
 <br>
-<br>
-[![Under Construction](AnimGifs/UnderConstructionBelow.gif "Under Construction")](#underconstruction) 
-<br>
+
 ### Features: 
 1. Built in Html/CSS/JS, using Apache Cordova to wrap in native code;
-2. Using Bootstrap's UI / UX features, in conjunction with jQuery and JS, the content of the app was organized in 5 Tabs: "Dr Aureo", "Dicas", "Recomendo", "Viver!" and "Alô";
+2. Using Bootstrap's UI / UX features, in conjunction with jQuery and JS, the content of the app was organized in 5 Tabs: "Dr Aureo", "Dicas", "Recomendo", "Viver!" and "Alô";<br>
+![DrAureo](DrAureo/gifs/DrAureo.gif "DrAureo")
 
 ### Improvements:
 1. Here, again, more attention must be paid to UI/UX;
