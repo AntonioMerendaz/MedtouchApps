@@ -132,10 +132,10 @@ Most of the applications for the iOS platform were built in Objective-C, using a
 <br>
 ### Features: 
 1. Built using Objective-C language;
-2. The app has 4 different Idioms: PT(Portuguese), EN(English), ES(Spanish) and CH(Chinese);
+2. The app has over 260 different drugs, with respective package inserts(PT version), 80 Calculators(PT) and in 4 different Idioms: PT(Portuguese), EN(English), ES(Spanish) and CH(Chinese);
 3. Also organized in tabs, 5 for the PT(portuguese) version and 4 for the other idioms, where the main view of each one of the tabs are TableViews, filled with the contents of a plist file;
 4. Each drug and the medicine package insert (PT version) is a html file built "on the run", i.e., using the content (object from a plist), concatenated with the Htmls Tags and CSS styles;
-5. The PT(portuguese) version has, as one of the Tabs and as an item in the drop-down list of each drug, the medicine package insert;
+5. The PT(portuguese) version has, as one of the Tabs, the medicine package insert;
 
 #### Obs:
 These differences between the idiom versions are due to specific local laws and regulations concerning the Drugs;
