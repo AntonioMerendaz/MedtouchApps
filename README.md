@@ -132,9 +132,13 @@ Most of the applications for the iOS platform were built in Objective-C, using a
 <br>
 ### Features: 
 1. Built using Objective-C language;
-2. 4 Idioms: PT, EN, ES, CH;
-3. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat;
-4. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat;
+2. The app has 4 different Idioms: PT(Portuguese), EN(English), ES(Spanish) and CH(Chinese);
+3. Also organized in tabs, 5 for the PT(portuguese) version and 4 for the other idioms, where the main view of each one of the tabs are TableViews, filled with the contents of a plist file;
+4. Each drug and the medicine package insert (PT version) is a html file built "on the run", i.e., using the content (object from a plist), concatenated with the Htmls Tags and CSS styles;
+5. The PT(portuguese) version has, as one of the Tabs and as an item in the drop-down list of each drug, the medicine package insert;
+
+#### Obs:
+These differences between the idiom versions are due to specific local laws and regulations concerning the Drugs;
 
 ### Improvements:
 1. All the content is in .plist files, a suggestion to improve the performance and security of the app is to put their content in a database, with all its access control and security features;
@@ -312,12 +316,6 @@ These applications were done in HTML/CSS/JS/jQuery/Bootstrap and using cross-pla
 ### Improvements:
 1. Make the necessary adaptations to integrate the iOS and Android versions in a single app;
 2. Here, again, more attention should be paid to UI/UX;
-
-[Back to Top](#top)
-----
-
-### Obs:
-The app can be seen [here](https://tinder-clone-c1a91.web.app)
 
 [Back to Top](#top)
 ----
