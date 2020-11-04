@@ -127,9 +127,7 @@ Most of the applications for the iOS platform were built in Objective-C, using a
 
 <img id="drogas" align="left" src="icons/Icon_Drogas_60.png"><b>Drogas em Emergência & CTI</b><br>A quick reference guide with the main drugs used in emergency and intensive care, made by physicians who work "on the front line"!
 <br>
-<br>
-[![Under Construction](AnimGifs/UnderConstructionBelow.gif "Under Construction")](#underconstruction) 
-<br>
+
 ### Features: 
 1. Built using Objective-C language;
 2. The app has over 260 different drugs, with respective package inserts(PT version), 80 Calculators(PT) and in 4 different Idioms: PT(Portuguese), EN(English), ES(Spanish) and CH(Chinese);
