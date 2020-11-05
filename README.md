@@ -150,19 +150,20 @@ These differences between the idiom versions are due to specific local laws and 
 
 <img id="epons" align="left" src="icons/Icon_Epons-60.png"><b>Epônimos</b><br>THE WORLD'S MOST COMPLETE APP IN THE GENDER! More than 4000 terms in Medicine, Dentistry, Nutrition, Physiotherapy and Nursing!
 <br>
-<br>
-[![Under Construction](AnimGifs/UnderConstructionBelow.gif "Under Construction")](#underconstruction) 
-<br>
+
 ### Features: 
 1. Built using Objective-C language;
-2. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat;
-3. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat;
+2. The app contains over 4000 eponyms, each one is an object in a plist file;
+3. Same Architecture/UI using TabViewController: 5 tabs where the first, the second and the fourth are TableViews("Epônimos" and "Categorias"), the third one is a "Quiz", that uses the acelerometer(Shake vertically to show only the eponym title or horizontally to show only the description and try to guess!);
+4. Here in this app was used a library (MarqueeLabel) to create a Label with a special effect;
+5. We have the option of mark an eponym as a "Favorite" and again we have a "Share" Tab;
 
 ### Improvements:
-1. Think in transitioning the code to Swift;
-2. Here, again, more attention should be paid to UI/UX;
-3. Improvements on Autolayout implementations must be done;
-4. Change the architecture MVC to MVVM and refactor the code to make it easy to build Tests;
+1. All the content is in .plist files, a suggestion to improve the performance and security of the app is to put their content in a database, with all its access control and security features;
+2. Think in transitioning the code to Swift;
+3. Here, again, more attention should be paid to UI/UX;
+4. Improvements on Autolayout implementations must be done;
+5. Change the architecture MVC to MVVM and refactor the code to make it easy to build Tests;
 
 [Back to Top](#top)
 ----
