@@ -170,13 +170,14 @@ These differences between the idiom versions are due to specific local laws and 
 
 <img id="gravlact" align="left" src="icons/Icon_GravLact_60.png"><b>Gravidez e Lactação</b><br>A reliable guide containing Conducts, Calculators and Drug Guide for the management of pregnant and lactating women, in a FRIENDLY INTERFACE!
 <br>
-<br>
-[![Under Construction](AnimGifs/UnderConstructionBelow.gif "Under Construction")](#underconstruction) 
-<br>
+
 ### Features: 
 1. Built using Objective-C language;
-2. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat;
-3. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat;
+2. The app contains over 10 calculators, 30 conducts for pregnancy and lactation and 410 drugs, stored as an object in a plist file;
+3. Each drug is a html file built "on the run", i.e., using the content (object from a plist), concatenated with the Htmls Tags and CSS styles;
+4. Same Architecture/UI using TabViewController with 5 tabs, 4 of them TableViews: "Condutas", "Drogas, "Calculadoras" and "Minhas Notas", and the last one a SimpleView with a TableView object inside: "Share";
+5. There's a SegmentedControl, as a title in the NavBar and another View with links to others apps of the Developer in appStore ("+Apps");
+6. We have the option of mark a conduct, a Drug or a Calculator as a "Favorite";
 
 ### Improvements:
 1. Think in transitioning the code to Swift;
