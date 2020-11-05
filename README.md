@@ -176,33 +176,36 @@ These differences between the idiom versions are due to specific local laws and 
 2. The app contains over 10 calculators, 30 conducts for pregnancy and lactation and 410 drugs, stored as an object in a plist file;
 3. Each drug is a html file built "on the run", i.e., using the content (object from a plist), concatenated with the Htmls Tags and CSS styles;
 4. Same Architecture/UI using TabViewController with 5 tabs, 4 of them TableViews: "Condutas", "Drogas, "Calculadoras" and "Minhas Notas", and the last one a SimpleView with a TableView object inside: "Share";
-5. There's a SegmentedControl, as a title in the NavBar and another View with links to others apps of the Developer in appStore ("+Apps");
+5. Each View has a SegmentedControl, as a title in the NavBar and another View with links to others apps of the Developer in appStore ("+Apps");
 6. We have the option of mark a conduct, a Drug or a Calculator as a "Favorite";
 
 ### Improvements:
-1. Think in transitioning the code to Swift;
-2. Here, again, more attention should be paid to UI/UX;
-3. Improvements on Autolayout implementations must be done;
-4. Change the architecture MVC to MVVM and refactor the code to make it easy to build Tests;
+1. All the content is in .plist files, a suggestion to improve the performance and security of the app is to put their content in a database, with all its access control and security features;
+2. Think in transitioning the code to Swift;
+3. Here, again, more attention should be paid to UI/UX;
+4. Improvements on Autolayout implementations must be done;
+5. Change the architecture MVC to MVVM and refactor the code to make it easy to build Tests;
 
 [Back to Top](#top)
 ----
 
 <img id="guiaatms" align="left" src="icons/Icon_GuiaATMs-60.png"><b>Guia de Antimicrobianos</b><br>Therapeutic indications for more than 500 infections, in adults and children; Surgical prophylaxis; Pharmacological Guide; 180 Most common bacteria, calculators, etc.
 <br>
-<br>
-[![Under Construction](AnimGifs/UnderConstructionBelow.gif "Under Construction")](#underconstruction) 
-<br>
+
 ### Features: 
 1. Built using Objective-C language;
-2. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat;
-3. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat;
+2. The app contains 271 Diagnostics/Treatments for adults, 137 Diagnostics/Treatments for children, 100 surgical prophylaxis and a guide with 94 antimicrobials followed by their respective package inserts, stored as objects in plist files;
+3. Each Diagnostic/Treatment, Surgical Prophylaxis, Antimicrobial and Package Insert is a html file built "on the run", i.e., using the content (object from a plist), concatenated with the Htmls Tags and CSS styles;
+4. Same Architecture/UI using TabViewController with 5 tabs containing TableViews: "Diagnósticos", "Profilaxias, "ATBs", "Bulas" and "Extras";
+5. Each View has a SegmentedControl, as a title in the NavBar and another View with links to others apps of the Developer in appStore ("+Apps");
+6. We have the option of mark a diagnostic or a prophylaxis as a "Favorite";
 
 ### Improvements:
-1. Think in transitioning the code to Swift;
-2. Here, again, more attention should be paid to UI/UX;
-3. Improvements on Autolayout implementations must be done;
-4. Change the architecture MVC to MVVM and refactor the code to make it easy to build Tests;
+1. All the content is in .plist files, a suggestion to improve the performance and security of the app is to put their content in a database, with all its access control and security features;
+2. Think in transitioning the code to Swift;
+3. Here, again, more attention should be paid to UI/UX;
+4. Improvements on Autolayout implementations must be done;
+5. Change the architecture MVC to MVVM and refactor the code to make it easy to build Tests;
 
 [Back to Top](#top)
 ----
