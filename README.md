@@ -62,7 +62,7 @@ Most of the applications for the iOS platform were built in Objective-C, using a
 
 
 ### To Do:
-1. As all the content was in pdfs, and used as so, a suggestion to improve the performance and security of the app is to put their content in a database, with all its access control and security features and generate each html file at time of use;
+1. As all content was already in the form of PDF files, we used these files to speed up the launch of the app. Then, a suggestion to improve the performance and security of the app is to put their content in a database, with all its access control and security features as well as the flexibility of the htmls/CSS files and generate each html file at time of use, like is already done in other apps;
 2. Think in transitioning the code to Swift;
 3. Change the architecture MVC to MVVM and refactor the code to make it easy to build Tests;
 4. Here, again, more attention should be paid to UI/UX;
@@ -180,7 +180,7 @@ These differences between the idiom versions are due to specific local laws and 
 6. We have the option of mark a conduct, a Drug or a Calculator as a "Favorite";
 
 ### To Do:
-1. All the content is in .plist files, a suggestion to improve the performance and security of the app is to put their content in a database, with all its access control and security features;
+1. As all content was already in the form of PDF files, we used these files to speed up the launch of the app. Then, a suggestion to improve the performance and security of the app is to put their content in a database, with all its access control and security features as well as the flexibility of the htmls/CSS files and generate each html file at time of use, like is already done in other apps;
 2. Think in transitioning the code to Swift;
 3. Here, again, more attention should be paid to UI/UX;
 4. Improvements on Autolayout implementations must be done;
@@ -201,7 +201,7 @@ These differences between the idiom versions are due to specific local laws and 
 6. We have the option of mark a diagnostic or a prophylaxis as a "Favorite";
 
 ### To Do:
-1. All the content is in .plist files, a suggestion to improve the performance and security of the app is to put their content in a database, with all its access control and security features;
+1. As all content was already in the form of PDF files, we used these files to speed up the launch of the app. Then, a suggestion to improve the performance and security of the app is to put their content in a database, with all its access control and security features as well as the flexibility of the htmls/CSS files and generate each html file at time of use, like is already done in other apps;
 2. Think in transitioning the code to Swift;
 3. Here, again, more attention should be paid to UI/UX;
 4. Improvements on Autolayout implementations must be done;
