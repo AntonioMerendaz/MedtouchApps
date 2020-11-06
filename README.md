@@ -216,10 +216,9 @@ These differences between the idiom versions are due to specific local laws and 
 ### Features: 
 1. Built using Objective-C language;
 2. Use of custom table view index, using the first three letters of the category and javascript commands inside the objective-C code (use of search bar to find and highlight keywords in the text);
-3. Use of the FPPopover and MFSideMenu libraries on the first tab, the first to create a Popover with the topics of text and the second to create a Side Menu ("drawer");
-4. 88 Calculators, 201 Drugs and 119 Trials(Article summaries) built using HTML/CSS/Javascript and wrapped in a webview;
+3. Use of the MFSideMenu libraries on the first tab, the first to create a Popover with the topics of text and the second to create a Side Menu ("drawer");
+4. 154 Prescriptions, 44 Calculators and 30 Extras(Guides, Orientations, etc) built using HTML/CSS/Javascript and wrapped in a webview;
 5. A Note Taking tab, where you can save your simple notes for future consultation;<br>
-![Calcs2Nota](CodeBlue/gifs/Calcs2Nota.gif "Calcs2Nota")&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Nota](CodeBlue/gifs/Notas.gif "Nota")
 
 ### Improvements:
 1. Think in transitioning the code to Swift;
