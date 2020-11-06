@@ -212,13 +212,14 @@ These differences between the idiom versions are due to specific local laws and 
 
 <img id="prescs" align="left" src="icons/Icon_Presc_60.png"><b>Prescrições Médicas</b><br>A true EVIDENCE-BASED medical prescriptions guide, written by SPECIALIST DOCTORS!
 <br>
-<br>
-[![Under Construction](AnimGifs/UnderConstructionBelow.gif "Under Construction")](#underconstruction) 
-<br>
+
 ### Features: 
 1. Built using Objective-C language;
-2. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat;
-3. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat;
+2. Use of custom table view index, using the first three letters of the category and javascript commands inside the objective-C code (use of search bar to find and highlight keywords in the text);
+3. Use of the FPPopover and MFSideMenu libraries on the first tab, the first to create a Popover with the topics of text and the second to create a Side Menu ("drawer");
+4. 88 Calculators, 201 Drugs and 119 Trials(Article summaries) built using HTML/CSS/Javascript and wrapped in a webview;
+5. A Note Taking tab, where you can save your simple notes for future consultation;<br>
+![Calcs2Nota](CodeBlue/gifs/Calcs2Nota.gif "Calcs2Nota")&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Nota](CodeBlue/gifs/Notas.gif "Nota")
 
 ### Improvements:
 1. Think in transitioning the code to Swift;
