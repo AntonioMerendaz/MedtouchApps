@@ -1,6 +1,6 @@
 <h1 id="top">Medtouch Applications</h2>
 
-##### These are the applications built and deployed during my work at [Medtouch](https://www.medtouch.com.br).  During these over 8 years, I've built over 10 apps for the [iOS Platform](#appios) and 5 for the [Android Platform](#appandroid) and the respective app updates for both platforms.
+##### These are the applications built and deployed during my work at [Medtouch](https://www.medtouch.com.br).  During these over 8 years, I've built over 10 apps for the [iOS Platform](#appios) and 6 for the [Android Platform](#appandroid) and the respective app updates for both platforms.
 
 ##### It is worth mentioning the "timing", i.e., some features that with the current tools and frameworks are trivial to do, was done/built "manually" and I'll present this as it was at that time (innovative, difficult to accomplish, etc).
 
