@@ -37,7 +37,7 @@ Most of the applications for the iOS platform were built in Objective-C, using a
 5. A Note Taking tab, where you can save your simple notes for future consultation;<br>
 ![Calcs2Nota](CodeBlue/gifs/Calcs2Nota.gif "Calcs2Nota")&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Nota](CodeBlue/gifs/Notas.gif "Nota")
 
-### Improvements:
+### To Do:
 1. Most of the app's content is in html format, accessed through property lists with title and file name. A suggestion to improve the performance and security of the app is to put these files in a real database, with all its access control and security features and generate each html file at time of use;
 2. In addition, greater attention should be paid to UI/UX;
 3. Improvements on Autolayout implementations must be done;
@@ -61,7 +61,7 @@ Most of the applications for the iOS platform were built in Objective-C, using a
 ![CondutasFav](Condutas/gifs/CondutasFav.gif "CondutasFav")&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Favs](Condutas/gifs/Favs.gif "Favs")
 
 
-### Improvements:
+### To Do:
 1. As all the content was in pdfs, and used as so, a suggestion to improve the performance and security of the app is to put their content in a database, with all its access control and security features and generate each html file at time of use;
 2. Think in transitioning the code to Swift;
 3. Change the architecture MVC to MVVM and refactor the code to make it easy to build Tests;
@@ -81,7 +81,7 @@ Most of the applications for the iOS platform were built in Objective-C, using a
 3. The fifth tab ("share") of the app consists in a TableView Object where each row provide a different link to the company on internet, like social networks (Twitter or Facebook), the Developer's website, to an online registration form or to send an email to the company and in the upper right there is a button that opens a View with the other apps of the developer;<br>
 ![Tab5_Share](Dengue/gifs/Tab5_share.gif "Tab5_Share")
 
-### Improvements:
+### To Do:
 1. Change the architecture MVC to MVVM and refactor the code to make it easy to build Tests;
 2. Here, again, some stuff to do in UI/UX;
 3. Improvements on Autolayout implementations must be done;
@@ -100,7 +100,7 @@ Most of the applications for the iOS platform were built in Objective-C, using a
 3. All the calculators are built with Html/CSS/JS/Bootstrap/jQuery and wrapped in a WebView;<br>
 ![DocCalc](DocCalc/gifs/DocCalc.gif "DocCalc")
 
-### Improvements:
+### To Do:
 1. All the content is in html files, a suggestion to improve the performance and security of the app is to put their content in a database, with all its access control and security features and generate each html file at time of use;
 2. Think in transitioning the code to Swift;
 3. Here, again, more attention should be paid to UI/UX;
@@ -119,7 +119,7 @@ Most of the applications for the iOS platform were built in Objective-C, using a
 2. Using Bootstrap's UI / UX features, in conjunction with jQuery and JS, the content of the app was organized in 5 Tabs: "Dr Aureo", "Dicas", "Recomendo", "Viver!" and "Alô";<br>
 ![DrAureo](DrAureo/gifs/DrAureo.gif "DrAureo")
 
-### Improvements:
+### To Do:
 1. Here, again, more attention must be paid to UI/UX;
 
 [Back to Top](#top)
@@ -138,7 +138,7 @@ Most of the applications for the iOS platform were built in Objective-C, using a
 #### Obs:
 These differences between the idiom versions are due to specific local laws and regulations concerning the Drugs;
 
-### Improvements:
+### To Do:
 1. All the content is in .plist files, a suggestion to improve the performance and security of the app is to put their content in a database, with all its access control and security features;
 2. Think in transitioning the code to Swift;
 3. Here, again, more attention should be paid to UI/UX;
@@ -158,7 +158,7 @@ These differences between the idiom versions are due to specific local laws and 
 4. Here in this app was used a library (MarqueeLabel) to create a Label with a special effect;
 5. We have the option of mark an eponym as a "Favorite" and again we have a "Share" Tab;
 
-### Improvements:
+### To Do:
 1. All the content is in .plist files, a suggestion to improve the performance and security of the app is to put their content in a database, with all its access control and security features;
 2. Think in transitioning the code to Swift;
 3. Here, again, more attention should be paid to UI/UX;
@@ -179,7 +179,7 @@ These differences between the idiom versions are due to specific local laws and 
 5. Each View has a SegmentedControl, as a title in the NavBar and another View with links to others apps of the Developer in appStore ("+Apps");
 6. We have the option of mark a conduct, a Drug or a Calculator as a "Favorite";
 
-### Improvements:
+### To Do:
 1. All the content is in .plist files, a suggestion to improve the performance and security of the app is to put their content in a database, with all its access control and security features;
 2. Think in transitioning the code to Swift;
 3. Here, again, more attention should be paid to UI/UX;
@@ -200,7 +200,7 @@ These differences between the idiom versions are due to specific local laws and 
 5. Each View has a SegmentedControl, as a title in the NavBar and another View with links to others apps of the Developer in appStore ("+Apps");
 6. We have the option of mark a diagnostic or a prophylaxis as a "Favorite";
 
-### Improvements:
+### To Do:
 1. All the content is in .plist files, a suggestion to improve the performance and security of the app is to put their content in a database, with all its access control and security features;
 2. Think in transitioning the code to Swift;
 3. Here, again, more attention should be paid to UI/UX;
@@ -220,7 +220,7 @@ These differences between the idiom versions are due to specific local laws and 
 4. 154 Prescriptions, 44 Calculators and 30 Extras(Guides, Orientations, etc) built using HTML/CSS/Javascript and wrapped in a webview;
 5. A Note Taking tab, where you can save your simple notes for future consultation;<br>
 
-### Improvements:
+### To Do:
 1. Think in transitioning the code to Swift;
 2. Here, again, more attention should be paid to UI/UX;
 3. Improvements on Autolayout implementations must be done;
@@ -246,7 +246,7 @@ These applications were done in HTML/CSS/JS/jQuery/Bootstrap and using cross-pla
 2. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat;
 3. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat;
 
-### Improvements:
+### To Do:
 1. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat;
 2. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat;
 2. Put each and every one button to work properly;
@@ -265,7 +265,7 @@ These applications were done in HTML/CSS/JS/jQuery/Bootstrap and using cross-pla
 2. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat;
 3. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat;
 
-### Improvements:
+### To Do:
 1. Make the necessary adaptations to integrate the iOS and Android versions in a single app;
 2. Here, again, more attention should be paid to UI/UX;
 
@@ -282,7 +282,7 @@ These applications were done in HTML/CSS/JS/jQuery/Bootstrap and using cross-pla
 2. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat;
 3. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat;
 
-### Improvements:
+### To Do:
 1. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat;
 2. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat;
 
@@ -299,7 +299,7 @@ These applications were done in HTML/CSS/JS/jQuery/Bootstrap and using cross-pla
 2. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat;
 3. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat;
 
-### Improvements:
+### To Do:
 1. Make the necessary adaptations to integrate the iOS and Android versions in a single app;
 2. Here, again, more attention should be paid to UI/UX;
 
@@ -316,7 +316,7 @@ These applications were done in HTML/CSS/JS/jQuery/Bootstrap and using cross-pla
 2. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat;
 3. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat;
 
-### Improvements:
+### To Do:
 1. Make the necessary adaptations to integrate the iOS and Android versions in a single app;
 2. Here, again, more attention should be paid to UI/UX;
 
@@ -333,7 +333,7 @@ These applications were done in HTML/CSS/JS/jQuery/Bootstrap and using cross-pla
 2. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat;
 3. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat;
 
-### Improvements:
+### To Do:
 1. Make the necessary adaptations to integrate the iOS and Android versions in a single app;
 2. Here, again, more attention should be paid to UI/UX;
 
